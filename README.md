@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧建筑室内房屋结构识别分割数据集labelme格式2111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5sZA==">下载</a></td></tr>
+<tr><td>智慧农业番茄西红柿识别分割数据集labelme格式2218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5paw==">下载</a></td></tr>
+<tr><td>电力场景变压器杆塔上部件识别分割数据集labelme格式1220张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1ybA==">下载</a></td></tr>
+<tr><td>无人机视角地理要素田地道路森林水体电力线识别分割数据集labelme格式1536张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1yZA==">下载</a></td></tr>
+<tr><td>飞机部件识别分割数据集labelme格式982张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1sZA==">下载</a></td></tr>
+<tr><td>智慧农业卡达巴香蕉成熟度识别分割数据集labelme格式702张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1rZg==">下载</a></td></tr>
+<tr><td>铁路轨道分割数据集labelme格式2234张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1qag==">下载</a></td></tr>
+<tr><td>苹果质检分割数据集labelme格式5842张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1qaQ==">下载</a></td></tr>
+<tr><td>智慧铁路机车车辆火车部件检测数据集VOC+YOLO格式262张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1pZg==">下载</a></td></tr>
+<tr><td>电力场景输电线异物检测数据集VOC+YOLO格式1331张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1pZQ==">下载</a></td></tr>
+<tr><td>中国蓝牌绿牌新能源车牌检测数据集VOC+YOLO格式2200张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkpxyaw==">下载</a></td></tr>
+<tr><td>智慧农业柑橘成熟度识别分割数据集labelme格式3089张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1yaQ==">下载</a></td></tr>
 <tr><td>玩手机看手机打电话检测数据集VOC+YOLO格式2332张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkptvaw==">下载</a></td></tr>
 <tr><td>智慧课堂课间玩手机检测数据集VOC+YOLO格式253张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkptvaA==">下载</a></td></tr>
 <tr><td>智慧农业玉米与杂草检测数据集VOC+YOLO格式697张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWbkpttbQ==">下载</a></td></tr>
