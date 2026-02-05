@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角智慧电力风力发电机叶片中心识别分割数据集labelme格式798张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saw==">下载</a></td></tr>
+<tr><td>智慧城市门头广告牌街头街道旁广告牌检测数据集VOC+YOLO格式1238张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saA==">下载</a></td></tr>
 <tr><td>智慧建筑室内房屋结构识别分割数据集labelme格式2111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5sZA==">下载</a></td></tr>
 <tr><td>智慧农业番茄西红柿识别分割数据集labelme格式2218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5paw==">下载</a></td></tr>
 <tr><td>电力场景变压器杆塔上部件识别分割数据集labelme格式1220张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp1ybA==">下载</a></td></tr>
