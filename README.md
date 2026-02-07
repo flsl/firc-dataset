@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>数字手势识别0-9检测数据集VOC+YOLO格式8738张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5htbA==">下载</a></td></tr>
+<tr><td>手势识别VOC+YOLO格式1745张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5htag==">下载</a></td></tr>
 <tr><td>无人机视角智慧电力风力发电机叶片中心识别分割数据集labelme格式798张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saw==">下载</a></td></tr>
 <tr><td>智慧城市门头广告牌街头街道旁广告牌检测数据集VOC+YOLO格式1238张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp9saA==">下载</a></td></tr>
 <tr><td>智慧建筑室内房屋结构识别分割数据集labelme格式2111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbkp5sZA==">下载</a></td></tr>
@@ -1693,7 +1695,6 @@
 <tr><td>[数据集][目标检测]茶叶病害数据集VOC+YOLO格式883张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135592849">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]玩手机检测数据集VOC+YOLO格式8200张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135458013">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]白细胞检测数据集VOC+YOLO格式343张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135441873">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]目标检测数据集手势识别VOC+YOLO格式1745张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135345957">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]车辆检测数据集VOC+YOLO格式1.6w张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135297405">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]草莓病害数据集VOC+YOLO格式1450张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135291441">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]昆虫数据集VOC+YOLO格式1938张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135290995">详情</a></td><td><a href="info.md">下载</a></td></tr>
