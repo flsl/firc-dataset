@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>猫种类品种识别检测数据集VOC+YOLO格式6967张24类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lwag==">下载</a></td></tr>
+<tr><td>红外热成像图像电力设备故障缺陷检测数据集VOC+YOLO格式1729张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lwaA==">下载</a></td></tr>
 <tr><td>无人机视角种植区工棚温棚太阳能板杂物检测数据集VOC+YOLO格式1668张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lqbQ==">下载</a></td></tr>
 <tr><td>无人机视角坟墓棺椁检测数据集VOC+YOLO格式237张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lraw==">下载</a></td></tr>
 <tr><td>无人机视角松材线虫病死树检测数据集VOC+YOLO格式1208张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5lrag==">下载</a></td></tr>
