@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>高清图像煤矿传送带异物传输带上煤矿异物检测数据集VOC+YOLO格式784张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51yZw==">下载</a></td></tr>
+<tr><td>煤矿传送带上异物矸石螺钉铁片检测数据集VOC+YOLO格式384张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk55pZA==">下载</a></td></tr>
+<tr><td>智慧城市街道摆摊占道经营流动摊贩检测数据集VOC+YOLO格式2401张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51waA==">下载</a></td></tr>
 <tr><td>公交车上遗留物品遗失物品检测数据集VOC+YOLO格式867张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51qZg==">下载</a></td></tr>
 <tr><td>电力场景红外图像绝缘子检测数据集VOC+YOLO格式420张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51pbA==">下载</a></td></tr>
 <tr><td>电力场景电弧隔离开关手套头盔绝缘子火花变压器检测数据集VOC+YOLO格式4593张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk5puZA==">下载</a></td></tr>
