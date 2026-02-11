@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>高清图像月球火星巨石陨石坑检测数据集VOC+YOLO格式4322张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk59waQ==">下载</a></td></tr>
+<tr><td>USB插口类型typecHDMI等常见接口检测数据集VOC+YOLO格式222张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk59wZQ==">下载</a></td></tr>
 <tr><td>高清图像煤矿传送带异物传输带上煤矿异物检测数据集VOC+YOLO格式784张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51yZw==">下载</a></td></tr>
 <tr><td>煤矿传送带上异物矸石螺钉铁片检测数据集VOC+YOLO格式384张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk55pZA==">下载</a></td></tr>
 <tr><td>智慧城市街道摆摊占道经营流动摊贩检测数据集VOC+YOLO格式2401张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51waA==">下载</a></td></tr>
