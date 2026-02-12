@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>AeBAD航空发动机叶片异常检测数据集VOC+YOLO格式1149张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdqZQ==">下载</a></td></tr>
+<tr><td>AeBAD航空发动机叶片异常识别分割数据集labelme格式1149张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdpaw==">下载</a></td></tr>
+<tr><td>智慧铁路巡检铁轨轨道缺陷检测数据集VOC+YOLO格式909张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJZtZA==">下载</a></td></tr>
 <tr><td>高清图像月球火星巨石陨石坑检测数据集VOC+YOLO格式4322张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk59waQ==">下载</a></td></tr>
 <tr><td>USB插口类型typecHDMI等常见接口检测数据集VOC+YOLO格式222张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk59wZQ==">下载</a></td></tr>
 <tr><td>高清图像煤矿传送带异物传输带上煤矿异物检测数据集VOC+YOLO格式784张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbk51yZw==">下载</a></td></tr>
