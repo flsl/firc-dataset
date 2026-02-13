@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>反光衣防护服安全帽检测数据集VOC+YOLO格式324张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhrZA==">下载</a></td></tr>
+<tr><td>野生动物检测数据集VOC+YOLO格式3285张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhqaA==">下载</a></td></tr>
+<tr><td>口罩佩戴检测数据集VOC+YOLO格式1959张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhraA==">下载</a></td></tr>
+<tr><td>智慧医疗手术工具医疗器械检测数据集VOC+YOLO格式2273张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhrZg==">下载</a></td></tr>
+<tr><td>智慧养殖猪场猪只异常行为打闹咬头咬尾检测数据集VOC+YOLO格式1706张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhqZA==">下载</a></td></tr>
+<tr><td>厨房用品厨房物体食物检测数据集VOC+YOLO格式9366张69类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhpaA==">下载</a></td></tr>
+<tr><td>水下管道检测数据集VOC+YOLO格式7441张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdxag==">下载</a></td></tr>
+<tr><td>福寿螺检测数据集VOC+YOLO格式545张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdvaw==">下载</a></td></tr>
+<tr><td>西瓜叶子病害识别分割数据集labelme格式1738张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdubQ==">下载</a></td></tr>
 <tr><td>AeBAD航空发动机叶片异常检测数据集VOC+YOLO格式1149张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdqZQ==">下载</a></td></tr>
 <tr><td>AeBAD航空发动机叶片异常识别分割数据集labelme格式1149张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJdpaw==">下载</a></td></tr>
 <tr><td>智慧铁路巡检铁轨轨道缺陷检测数据集VOC+YOLO格式909张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJZtZA==">下载</a></td></tr>
