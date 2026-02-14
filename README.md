@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>金铲铲之战人物目标检测数据集VOC+YOLO格式1575张59类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtaw==">下载</a></td></tr>
+<tr><td>寄生虫类型钩虫绦虫血吸虫检测数据集VOC+YOLO格式2109张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtag==">下载</a></td></tr>
+<tr><td>智慧医疗X光图像前交叉韧带检测数据集VOC+YOLO格式3059张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtaQ==">下载</a></td></tr>
+<tr><td>细胞气孔开关状态检测数据集VOC+YOLO格式2105张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtaA==">下载</a></td></tr>
 <tr><td>反光衣防护服安全帽检测数据集VOC+YOLO格式324张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhrZA==">下载</a></td></tr>
 <tr><td>野生动物检测数据集VOC+YOLO格式3285张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhqaA==">下载</a></td></tr>
 <tr><td>口罩佩戴检测数据集VOC+YOLO格式1959张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhraA==">下载</a></td></tr>
