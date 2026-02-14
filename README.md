@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>城市道路沥青路面裂缝损失缺陷检测数据集VOC+YOLO格式1625张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhyaA==">下载</a></td></tr>
+<tr><td>无人机视角城市沥青道路路面损伤缺陷裂缝坑槽检测数据集VOC+YOLO格式2424张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhyZg==">下载</a></td></tr>
+<tr><td>智慧交通沥青路面损伤缺陷检测数据集VOC+YOLO格式547张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhyZQ==">下载</a></td></tr>
+<tr><td>石棉表面缺陷瑕疵检测数据集VOC+YOLO格式1314张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhvZw==">下载</a></td></tr>
+<tr><td>电信基础设施通信基站设备检测数据集VOC+YOLO格式4769张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhvaQ==">下载</a></td></tr>
 <tr><td>金铲铲之战人物目标检测数据集VOC+YOLO格式1575张59类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtaw==">下载</a></td></tr>
 <tr><td>寄生虫类型钩虫绦虫血吸虫检测数据集VOC+YOLO格式2109张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtag==">下载</a></td></tr>
 <tr><td>智慧医疗X光图像前交叉韧带检测数据集VOC+YOLO格式3059张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhtaQ==">下载</a></td></tr>
