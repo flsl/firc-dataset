@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>果园柑橘树上柑橘检测数据集VOC+YOLO格式2511张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpxZA==">下载</a></td></tr>
+<tr><td>柑橘叶子病害检测数据集VOC+YOLO格式1102张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpxZQ==">下载</a></td></tr>
+<tr><td>鱼类异常状态检测数据集VOC+YOLO格式3895张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpwbQ==">下载</a></td></tr>
+<tr><td>洋葱好坏腐烂检测数据集VOC+YOLO格式1015张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpwbA==">下载</a></td></tr>
+<tr><td>智慧农业柑橘虫害检测数据集VOC+YOLO格式1335张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpwaQ==">下载</a></td></tr>
+<tr><td>公路隧道铁路地铁隧道漏水隧道渗水识别分割数据集labelme格式2758张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpqZA==">下载</a></td></tr>
+<tr><td>反光衣没穿反光衣检测数据VOC+YOLO格式1352张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJlsZQ==">下载</a></td></tr>
 <tr><td>城市道路沥青路面裂缝损失缺陷检测数据集VOC+YOLO格式1625张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhyaA==">下载</a></td></tr>
 <tr><td>无人机视角城市沥青道路路面损伤缺陷裂缝坑槽检测数据集VOC+YOLO格式2424张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhyZg==">下载</a></td></tr>
 <tr><td>智慧交通沥青路面损伤缺陷检测数据集VOC+YOLO格式547张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJhyZQ==">下载</a></td></tr>
