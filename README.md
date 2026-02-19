@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>疟疾细胞检测数据集VOC+YOLO格式5452张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxubA==">下载</a></td></tr>
+<tr><td>传送带上快递箱子纸箱子检测数据集VOC+YOLO格式9978张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxuag==">下载</a></td></tr>
+<tr><td>条形码检测数据集VOC+YOLO格式8236张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxuaQ==">下载</a></td></tr>
+<tr><td>河道巡检河道水位尺检测数据集VOC+YOLO格式317张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJttZw==">下载</a></td></tr>
+<tr><td>智慧养殖牛只行为活动状态检测数据集VOC+YOLO格式2113张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJtsaQ==">下载</a></td></tr>
 <tr><td>果园柑橘树上柑橘检测数据集VOC+YOLO格式2511张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpxZA==">下载</a></td></tr>
 <tr><td>柑橘叶子病害检测数据集VOC+YOLO格式1102张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpxZQ==">下载</a></td></tr>
 <tr><td>鱼类异常状态检测数据集VOC+YOLO格式3895张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJpwbQ==">下载</a></td></tr>
