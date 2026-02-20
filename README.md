@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>煤矿传送带异物检测数据集VOC+YOLO格式1057张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ1tag==">下载</a></td></tr>
+<tr><td>夜红外图像无人机检测数据集VOC+YOLO格式1963张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ1qaQ==">下载</a></td></tr>
 <tr><td>疟疾细胞检测数据集VOC+YOLO格式5452张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxubA==">下载</a></td></tr>
 <tr><td>传送带上快递箱子纸箱子检测数据集VOC+YOLO格式9978张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxuag==">下载</a></td></tr>
 <tr><td>条形码检测数据集VOC+YOLO格式8236张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxuaQ==">下载</a></td></tr>
