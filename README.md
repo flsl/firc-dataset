@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路轨道岔止冲器铁路要素识别分割数据集labelme格式7238张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ9pag==">下载</a></td></tr>
+<tr><td>植物叶子根系病虫害检测数据集VOC+YOLO格式1166张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ9pZQ==">下载</a></td></tr>
+<tr><td>小白菜叶子病害健康状态检测数据集VOC+YOLO格式1863张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ5yag==">下载</a></td></tr>
+<tr><td>宠物猫猫皮肤病检测数据集VOC+YOLO格式799张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ5wbA==">下载</a></td></tr>
+<tr><td>宠物狗狗皮肤病检测数据集VOC+YOLO格式2973张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ5wZw==">下载</a></td></tr>
+<tr><td>土石方机械挖掘作业状态检测挖掘机渣土车工作状态检测数据集VOC+YOLO格式2006张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ5taA==">下载</a></td></tr>
+<tr><td>狐猴种类类型检测数据集VOC+YOLO格式2381张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ1wZw==">下载</a></td></tr>
 <tr><td>煤矿传送带异物检测数据集VOC+YOLO格式1057张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ1tag==">下载</a></td></tr>
 <tr><td>夜红外图像无人机检测数据集VOC+YOLO格式1963张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ1qaQ==">下载</a></td></tr>
 <tr><td>疟疾细胞检测数据集VOC+YOLO格式5452张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJxubA==">下载</a></td></tr>
