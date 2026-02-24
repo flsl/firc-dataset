@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通驾驶员违规未系安全带玩手机检测数据集VOC+YOLO格式803张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZdsZQ==">下载</a></td></tr>
+<tr><td>农业病虫害检测数据集VOC+YOLO格式2694张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZdqbQ==">下载</a></td></tr>
 <tr><td>六种飞行物飞行目标检测数据集VOC+YOLO格式2029张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZZqbA==">下载</a></td></tr>
 <tr><td>绵羊品种种类检测数据集VOC+YOLO格式314张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZZpZg==">下载</a></td></tr>
 <tr><td>传送带破损损伤识别检测数据集VOC+YOLO格式918张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJ9xag==">下载</a></td></tr>
