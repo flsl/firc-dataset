@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>马脸检测数据集VOC+YOLO格式2656张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ5uaw==">下载</a></td></tr>
+<tr><td>马匹行为状态检测数据集VOC+YOLO格式3267张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ5uag==">下载</a></td></tr>
+<tr><td>PE管道缺陷波纹胶装管道缺陷检测数据集VOC+YOLO格式1053张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ1pZg==">下载</a></td></tr>
+<tr><td>无人机视角铁路轨道异物石头倒树识别分割数据集labelme格式1196张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ5vaA==">下载</a></td></tr>
+<tr><td>小麦叶子病害检测数据集VOC+YOLO格式2898张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZtubQ==">下载</a></td></tr>
 <tr><td>智慧农业各种农作物叶子病害检测数据集VOC+YOLO格式9845张86类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZpyaA==">下载</a></td></tr>
 <tr><td>眼部疾病检测数据集VOC+YOLO格式2280张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZpxZA==">下载</a></td></tr>
 <tr><td>茶叶叶片叶子病害检测数据集VOC+YOLO格式2715张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZlwaQ==">下载</a></td></tr>
