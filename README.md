@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>道路缺陷数据集VOC+YOLO格式12195张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblphvaw==">下载</a></td></tr>
+<tr><td>无人机视角草坪路面垃圾检测数据集VOC+YOLO格式700张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ9uZA==">下载</a></td></tr>
+<tr><td>山体山坡裂缝检测山坡塌方隐患检测数据集VOC+YOLO格式423张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ9pbA==">下载</a></td></tr>
 <tr><td>马脸检测数据集VOC+YOLO格式2656张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ5uaw==">下载</a></td></tr>
 <tr><td>马匹行为状态检测数据集VOC+YOLO格式3267张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ5uag==">下载</a></td></tr>
 <tr><td>PE管道缺陷波纹胶装管道缺陷检测数据集VOC+YOLO格式1053张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ1pZg==">下载</a></td></tr>
@@ -1782,7 +1785,6 @@
 <tr><td>[数据集][目标检测]草莓病害数据集VOC+YOLO格式1450张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135291441">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]昆虫数据集VOC+YOLO格式1938张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135290995">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]道路缺陷数据集VOC+YOLO格式5000张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135287965">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]道路缺陷数据集VOC+YOLO格式12195张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135278133">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]水稻病害目标检测数据集VOC+YOLO格式3355张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135105493">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]人员持刀数据集VOC+YOLO格式6923张1类别重制版</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135045827">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电风扇目标检测数据集VOC+YOLO格式364张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134987539">详情</a></td><td><a href="info.md">下载</a></td></tr>
