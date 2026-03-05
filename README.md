@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通道路路面裂缝坑洼标线损坏识别分割数据集labelme格式1001张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5xag==">下载</a></td></tr>
+<tr><td>智慧交通道路状态道路路面异常识别数据集labelme格式1164张37类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5xZQ==">下载</a></td></tr>
+<tr><td>混凝土墙壁剥落外露钢筋缺陷识别分割数据集labelme格式1199张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5ubA==">下载</a></td></tr>
+<tr><td>智慧农业大豆叶子害虫检测数据集VOC+YOLO格式1799张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5uaw==">下载</a></td></tr>
+<tr><td>智慧铁路轨道紧固件缺失破损缺陷检测数据集VOC+YOLO格式1266张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5rZA==">下载</a></td></tr>
+<tr><td>公路隧道内各种类型车辆检测数据集VOC+YOLO格式2088张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp1ubA==">下载</a></td></tr>
+<tr><td>智慧食堂餐盘食物铁盘内餐品检测数据集VOC+YOLO格式1146张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5uZA==">下载</a></td></tr>
+<tr><td>校园异常行为检测数据集VOC+YOLO格式4436张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblptwbQ==">下载</a></td></tr>
+<tr><td>医院养老院护理人员病人检测数据集VOC+YOLO格式593张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblptyaQ==">下载</a></td></tr>
+<tr><td>智慧医疗牙科钻头类型识别牙科器具检测数据集VOC+YOLO格式8211张99类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblptvbA==">下载</a></td></tr>
 <tr><td>道路缺陷数据集VOC+YOLO格式12195张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblphvaw==">下载</a></td></tr>
 <tr><td>无人机视角草坪路面垃圾检测数据集VOC+YOLO格式700张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ9uZA==">下载</a></td></tr>
 <tr><td>山体山坡裂缝检测山坡塌方隐患检测数据集VOC+YOLO格式423张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblZ9pbA==">下载</a></td></tr>
