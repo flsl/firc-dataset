@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>汽车部件车身部件识别分割数据集labelme格式1445张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5tuaw==">下载</a></td></tr>
+<tr><td>河道水域墙体区域垃圾河道要素识别分割数据集labelme格式147张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5ttaw==">下载</a></td></tr>
+<tr><td>光学镜片缺陷检测数据集VOC+YOLO格式920张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5pvaw==">下载</a></td></tr>
+<tr><td>螺栓螺母生锈腐蚀锈蚀检测数据集VOC+YOLO格式303张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5pubA==">下载</a></td></tr>
+<tr><td>海上轮船类型检测船舶种类识别检测数据集VOC+YOLO格式5000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5ZwZQ==">下载</a></td></tr>
+<tr><td>人体上半身检测数据集VOC+YOLO格式9924张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5ZvbQ==">下载</a></td></tr>
+<tr><td>无人机视角城市街道斑马线减速带检测数据集VOC+YOLO格式6939张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5ZrZw==">下载</a></td></tr>
+<tr><td>智慧林业巨石倒树砍伐残余物枯木峡谷树桩检测数据集VOC+YOLO格式907张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbl5Zpag==">下载</a></td></tr>
 <tr><td>智慧交通道路路面裂缝坑洼标线损坏识别分割数据集labelme格式1001张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5xag==">下载</a></td></tr>
 <tr><td>智慧交通道路状态道路路面异常识别数据集labelme格式1164张37类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5xZQ==">下载</a></td></tr>
 <tr><td>混凝土墙壁剥落外露钢筋缺陷识别分割数据集labelme格式1199张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblp5ubA==">下载</a></td></tr>
