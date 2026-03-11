@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角风力发电机叶片缺陷识别分割数据集labelme格式6153张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZtyZA==">下载</a></td></tr>
+<tr><td>智慧交通高速公路抛洒物检测数据集VOC+YOLO格式3996张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZttaA==">下载</a></td></tr>
+<tr><td>无人机视角树冠识别分割数据集labelme格式1288张59类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxqbQ==">下载</a></td></tr>
+<tr><td>监控视角下河道水域水体识别分割数据集labelme格式2812张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxpaw==">下载</a></td></tr>
+<tr><td>人员躺站坐识别人员跌倒检测人员行为状态检测数据集VOC+YOLO格式3118张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZpwZA==">下载</a></td></tr>
+<tr><td>桥梁裂缝识别分割数据集labelme格式2181张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZltZg==">下载</a></td></tr>
+<tr><td>夜晚楼房亮灯建筑物晚上开灯检测数据集VOC+YOLO格式998张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZhybQ==">下载</a></td></tr>
+<tr><td>智慧养殖猪场猪只检测数据集VOC+YOLO格式7065张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZhwZg==">下载</a></td></tr>
 <tr><td>无人机视角城市街道各种类型车辆三轮车摩托车检测数据集VOC+YOLO格式1534张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZhqZQ==">下载</a></td></tr>
 <tr><td>螺栓锈蚀螺栓生锈检测数据集VOC+YOLO格式503张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZhpaA==">下载</a></td></tr>
 <tr><td>仪表盘刻度指针识别分割数据集labelme格式191张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZdvZw==">下载</a></td></tr>
