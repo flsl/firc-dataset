@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>集装箱侧面集装箱方向分类数据集2408张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1wag==">下载</a></td></tr>
+<tr><td>青少年小孩自闭症检测数据集VOC+YOLO格式8297张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1waA==">下载</a></td></tr>
+<tr><td>智慧医疗磁共振成像MRI自闭症检测数据集VOC+YOLO格式999张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1wZQ==">下载</a></td></tr>
+<tr><td>智慧运输集装箱损伤凹陷空洞锈蚀缺陷检测数据集VOC+YOLO格式1289张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1rZw==">下载</a></td></tr>
+<tr><td>智慧养殖鱼类疾病识别分类数据集1184张7类别已划分训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxybA==">下载</a></td></tr>
+<tr><td>水位标尺测量水位读数水位监测检测数据集VOC+YOLO格式493张60类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxwZQ==">下载</a></td></tr>
 <tr><td>无人机视角风力发电机叶片缺陷识别分割数据集labelme格式6153张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZtyZA==">下载</a></td></tr>
 <tr><td>智慧交通高速公路抛洒物检测数据集VOC+YOLO格式3996张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZttaA==">下载</a></td></tr>
 <tr><td>无人机视角树冠识别分割数据集labelme格式1288张59类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxqbQ==">下载</a></td></tr>
