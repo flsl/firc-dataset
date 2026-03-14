@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>国内新能源汽车类型识别检测数据集VOC+YOLO格式5391张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmphpZg==">下载</a></td></tr>
+<tr><td>医院病人救护车担架轮椅检测数据集VOC+YOLO格式8187张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmphraA==">下载</a></td></tr>
 <tr><td>火灾烟雾检测数据集VOC+YOLO格式8627张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpZxaQ==">下载</a></td></tr>
 <tr><td>交通违规目标检测数据集VOC+YOLO格式6697张23类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpZxaA==">下载</a></td></tr>
 <tr><td>智慧医疗X光牙齿疾病识别分割数据集labelme格式13887张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpZxZg==">下载</a></td></tr>
@@ -11,7 +13,7 @@
 <tr><td>道路电动车摩托车头盔佩戴检测数据集VOC+YOLO格式2308张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpZwaQ==">下载</a></td></tr>
 <tr><td>道路障碍物水泥墩水马隔离墩检测数据集VOC+YOLO格式1343张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9xbQ==">下载</a></td></tr>
 <tr><td>婴儿监护婴幼儿姿势识别婴儿行为状态检测数据集VOC+YOLO格式3143张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9taw==">下载</a></td></tr>
-<tr><td>屋顶破损损失缺陷检测数据集VOC+YOLO格式4581类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9xaA==">下载</a></td></tr>
+<tr><td>屋顶破损损失缺陷检测数据集VOC+YOLO格式458张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9xaA==">下载</a></td></tr>
 <tr><td>婴儿监护婴幼儿姿势仰卧俯卧识别婴儿行为状态检测数据集VOC+YOLO格式2534张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9uZw==">下载</a></td></tr>
 <tr><td>图书馆占位占座检测数据集VOC+YOLO格式3060张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9paw==">下载</a></td></tr>
 <tr><td>无人机视角河道河岸浮木检测数据集VOC+YOLO格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaw==">下载</a></td></tr>
