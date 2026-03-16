@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角路面损坏和冲刷道路滑坡预警检测数据集VOC+YOLO格式579张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZA==">下载</a></td></tr>
+<tr><td>无人机视角路面损坏和冲刷道路滑坡预警识别分割数据集labelme格式579张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxsbA==">下载</a></td></tr>
+<tr><td>无人机视角建筑损坏程度检测数据集VOC+YOLO格式865张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxpZg==">下载</a></td></tr>
+<tr><td>无人机视角建筑损坏程度识别分割数据集labelme格式865张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxpZA==">下载</a></td></tr>
+<tr><td>智慧矿井人员行为状态爬走靠站跌倒检测数据集VOC+YOLO格式4847张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmptybA==">下载</a></td></tr>
+<tr><td>BIT-Vehicle车辆检测数据集VOC+YOLO格式9850张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmptwaA==">下载</a></td></tr>
+<tr><td>无人机视角河流水流状态水流类型识别分割数据集labelme格式360张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZg==">下载</a></td></tr>
+<tr><td>智慧矿井矿车是否载人违规载人检测数据集VOC+YOLO格式950张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmplyaw==">下载</a></td></tr
+<tr><td>智慧交通道路防护栏路标路缘石减速带识别分割数据集labelme格式1393张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmplrbQ==">下载</a></td></tr>
+<tr><td>机器人室内监测目标检测数据集VOC+YOLO格式2310张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmplsaA==">下载</a></td></tr>
 <tr><td>国内新能源汽车类型识别检测数据集VOC+YOLO格式5391张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmphpZg==">下载</a></td></tr>
 <tr><td>医院病人救护车担架轮椅检测数据集VOC+YOLO格式8187张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmphraA==">下载</a></td></tr>
 <tr><td>火灾烟雾检测数据集VOC+YOLO格式8627张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpZxaQ==">下载</a></td></tr>
@@ -18,7 +28,7 @@
 <tr><td>图书馆占位占座检测数据集VOC+YOLO格式3060张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ9paw==">下载</a></td></tr>
 <tr><td>无人机视角河道河岸浮木检测数据集VOC+YOLO格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaw==">下载</a></td></tr>
 <tr><td>无人机视角河道河岸浮木识别分割数据集labelme格式1345张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5xaQ==">下载</a></td></tr>
-<tr><td>人员姿态人员动作人员跌倒检测数据集VOC+YOLO格式7998张5类别</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5waw==">下载</a></td></tr>
+<tr><td>人员姿态人员动作人员跌倒检测数据集VOC+YOLO格式7998张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ5waw==">下载</a></td></tr>
 <tr><td>集装箱侧面集装箱方向分类数据集2408张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1wag==">下载</a></td></tr>
 <tr><td>青少年小孩自闭症检测数据集VOC+YOLO格式8297张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1waA==">下载</a></td></tr>
 <tr><td>智慧医疗磁共振成像MRI自闭症检测数据集VOC+YOLO格式999张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZ1wZQ==">下载</a></td></tr>
