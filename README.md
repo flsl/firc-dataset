@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角河流水流状态水流类型识别分割数据集labelme格式360张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZg==">下载</a></td></tr>
+<tr><td>无人机视角工人是否佩戴安全帽检测数据集VOC+YOLO格式3008张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5dpZQ==">下载</a></td></tr>
+<tr><td>海上运输船泡沫船和纸箱塑料垃圾漂浮物检测数据集VOC+YOLO格式608张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5ZxZg==">下载</a></td></tr>
+<tr><td>油茶果成熟度检测数据集VOC+YOLO格式264张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5ZxZQ==">下载</a></td></tr>
+<tr><td>河道口水面漂浮物识别分割数据集labelme格式907张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmp5ubA==">下载</a></td></tr>
+<tr><td>无人机视角禁止游泳检测数据集VOC+YOLO格式20604张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmp5saQ==">下载</a></td></tr>
+<tr><td>桥梁裂缝混凝土剥落钢筋腐蚀外漏缺陷识别分割数据集labelme格式5341张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtaA==">下载</a></td></tr>
 <tr><td>无人机视角路面损坏和冲刷道路滑坡预警检测数据集VOC+YOLO格式579张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZA==">下载</a></td></tr>
 <tr><td>无人机视角路面损坏和冲刷道路滑坡预警识别分割数据集labelme格式579张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxsbA==">下载</a></td></tr>
 <tr><td>无人机视角建筑损坏程度检测数据集VOC+YOLO格式865张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxpZg==">下载</a></td></tr>
