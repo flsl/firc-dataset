@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角攀爬墙壁翻越院墙厂房治安检测数据集VOC+YOLO格式1704张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5tpaw==">下载</a></td></tr>
+<tr><td>山体落石山坡落石检测数据集VOC+YOLO格式1535张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5lwZA==">下载</a></td></tr>
+<tr><td>无人机视角智慧林业倒树树根识别分割数据集labelme格式5026张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5ltZw==">下载</a></td></tr>
+<tr><td>超市货架商品空缺货架商品卖走检测数据集VOC+YOLO格式2709张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5dyZg==">下载</a></td></tr>
+<tr><td>广东省所有学校名称2026月3月版39513条数据</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5dwZQ==">下载</a></td></tr>
+<tr><td>麻将识别检测数据集VOC+YOLO格式7643张42类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5dqZQ==">下载</a></td></tr>
+<tr><td>智慧建筑墙面墙壁裂缝剥落霉变渗水检测数据集VOC+YOLO格式2948张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5trZg==">下载</a></td></tr>
+<tr><td>智慧林业木材缺陷检测数据集VOC+YOLO格式2370张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5tqbA==">下载</a></td></tr>
+<tr><td>无人机视角户外人员与帐篷识别户外搜救人员检测数据集VOC+YOLO格式1808张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5puaA==">下载</a></td></tr>
 <tr><td>无人机视角河流水流状态水流类型识别分割数据集labelme格式360张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmpxtZg==">下载</a></td></tr>
 <tr><td>无人机视角工人是否佩戴安全帽检测数据集VOC+YOLO格式3008张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5dpZQ==">下载</a></td></tr>
 <tr><td>海上运输船泡沫船和纸箱塑料垃圾漂浮物检测数据集VOC+YOLO格式608张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm5ZxZg==">下载</a></td></tr>
