@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业生菜生长周期生菜生长状态检测数据集VOC+YOLO格式4406张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59uaw==">下载</a></td></tr>
+<tr><td>无人机视角智慧农业水稻生长周期水稻生长状态检测数据集VOC+YOLO格式5413张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59sZg==">下载</a></td></tr>
+<tr><td>敦煌壁画破损识别分割数据集labelme格式14210张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59qZg==">下载</a></td></tr>
+<tr><td>食品饮品日用品检测数据集VOC+YOLO格式1525张61类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm55vZQ==">下载</a></td></tr>
+<tr><td>圣女果和害虫检测数据集VOC+YOLO格式476张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm55uaQ==">下载</a></td></tr>
+<tr><td>西兰花检测数据集VOC+YOLO格式1084张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm55uZg==">下载</a></td></tr>
+<tr><td>五种新鲜与腐烂果蔬识别分割数据集labelme格式1131张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm51yag==">下载</a></td></tr>
 <tr><td>高空作业场景下人员安全带安全帽脚手架梯子检测数据集VOC+YOLO格式12661张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm51vZA==">下载</a></td></tr>
 <tr><td>室内要素识别建筑物内部地面墙壁天花板识别分割数据集labelme格式1031张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm51sZw==">下载</a></td></tr>
 <tr><td>智慧工地要素识别钢筋混凝土模板瓷砖识别分割数据集labelme格式1185张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm51rbQ==">下载</a></td></tr>
