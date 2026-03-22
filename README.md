@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>微铣削刀具磨损损伤检测数据集VOC+YOLO格式82张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdxbQ==">下载</a></td></tr>
+<tr><td>微铣削刀头磨损损伤检测数据集VOC+YOLO格式804张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdxag==">下载</a></td></tr>
+<tr><td>罗勒植物生长周期生长状态检测数据集VOC+YOLO格式1174张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdqZw==">下载</a></td></tr>
+<tr><td>无人机视角智慧城市绿化巡检树木草地低植被检测数据集VOC+YOLO格式208张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdpbA==">下载</a></td></tr>
+<tr><td>糖尿病足溃疡严重程度识别图像分类数据集10062张4类别已划分训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdvZg==">下载</a></td></tr>
+<tr><td>水果蔬菜新鲜度新鲜腐烂检测数据集VOC+YOLO格式9271张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdrZg==">下载</a></td></tr>
+<tr><td>糖尿病足溃疡识别图像分类数据集10062张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdvZQ==">下载</a></td></tr>
 <tr><td>智慧农业生菜生长周期生菜生长状态检测数据集VOC+YOLO格式4406张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59uaw==">下载</a></td></tr>
 <tr><td>无人机视角智慧农业水稻生长周期水稻生长状态检测数据集VOC+YOLO格式5413张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59sZg==">下载</a></td></tr>
 <tr><td>敦煌壁画破损识别分割数据集labelme格式14210张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbm59qZg==">下载</a></td></tr>
