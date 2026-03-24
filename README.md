@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工地施工区域人员设备施工安全多目标检测数据集VOC+YOLO格式4397张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpxrZw==">下载</a></td></tr>
+<tr><td>电力场景绝缘子破损识别分割数据集labelme格式1700张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckptxZw==">下载</a></td></tr>
+<tr><td>智慧建筑墙壁墙面裂缝空洞识别分割数据集labelme格式2388张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckptuZw==">下载</a></td></tr>
+<tr><td>智慧交通全场景车辆行人红绿灯路障标志牌树木反光锥目标检测数据集VOC+YOLO格式9977张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpppbQ==">下载</a></td></tr>
+<tr><td>智慧工地工作人员安全帽防护服防护手套防护靴检测数据集VOC+YOLO格式1427张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckplsag==">下载</a></td></tr>
+<tr><td>电力场景绝缘子破损自爆检测数据集VOC+YOLO格式702张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckplrbA==">下载</a></td></tr>
+<tr><td>桥梁损伤断裂缺陷检测数据集VOC+YOLO格式463张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckphybA==">下载</a></td></tr>
+<tr><td>太阳能光伏板缺陷检测数据集VOC+YOLO格式856张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckphwbQ==">下载</a></td></tr>
+<tr><td>国内车辆车牌蓝牌绿牌新能源和油车检测数据集VOC+YOLO格式3509张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckphtZA==">下载</a></td></tr>
 <tr><td>微铣削刀具磨损损伤检测数据集VOC+YOLO格式82张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdxbQ==">下载</a></td></tr>
 <tr><td>微铣削刀头磨损损伤检测数据集VOC+YOLO格式804张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdxag==">下载</a></td></tr>
 <tr><td>罗勒植物生长周期生长状态检测数据集VOC+YOLO格式1174张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpdqZw==">下载</a></td></tr>
