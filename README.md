@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>瑜伽姿态估计关键点检测数据集YOLO格式728张6类别18关键</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9uZw==">下载</a></td></tr>
+<tr><td>托盘姿态检测关键点检测数据集YOLO格式1943张1类别3关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9tag==">下载</a></td></tr>
+<tr><td>智慧工业螺丝螺母螺栓垫圈检测数据集VOC+YOLO格式800张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9rZQ==">下载</a></td></tr>
+<tr><td>焊枪姿态检测关键点检测数据集YOLO格式1730张1类别2关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9qZg==">下载</a></td></tr>
+<tr><td>人体行为姿态检测关键点检测数据集YOLO格式505张6类别12关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9pbQ==">下载</a></td></tr>
+<tr><td>太空碎片垃圾卫星异物检测数据集VOC+YOLO格式2467张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp5vaA==">下载</a></td></tr>
+<tr><td>智慧养殖奶牛鼻纹检测数据集VOC+YOLO格式598张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp5tag==">下载</a></td></tr>
 <tr><td>智慧工地施工区域人员设备施工安全多目标检测数据集VOC+YOLO格式4397张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckpxrZw==">下载</a></td></tr>
 <tr><td>电力场景绝缘子破损识别分割数据集labelme格式1700张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckptxZw==">下载</a></td></tr>
 <tr><td>智慧建筑墙壁墙面裂缝空洞识别分割数据集labelme格式2388张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckptuZw==">下载</a></td></tr>
