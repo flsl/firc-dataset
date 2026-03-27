@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电子元器件检测数据集VOC+YOLO格式1032张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lwZg==">下载</a></td></tr>
+<tr><td>智慧农业田间玉米果穗玉米棒子识别分割数据集labelme格式3271张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lvZg==">下载</a></td></tr>
+<tr><td>智慧医疗泡罩药板药片裂开缺失破损检测数据集VOC+YOLO格式2375张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lubA==">下载</a></td></tr>
+<tr><td>智慧医疗泡罩药板药片缺失缺陷检测数据集VOC+YOLO格式1300张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lsaA==">下载</a></td></tr>
+<tr><td>飞机表面缺陷检测数据集VOC+YOLO格式3718张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lraA==">下载</a></td></tr>
+<tr><td>停车位占用检测数据集VOC+YOLO格式1009张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lrZA==">下载</a></td></tr>
+<tr><td>桑叶病害检测数据集VOC+YOLO格式1043张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lqZA==">下载</a></td></tr>
 <tr><td>瑜伽姿态估计关键点检测数据集YOLO格式728张6类别18关键</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9uZw==">下载</a></td></tr>
 <tr><td>托盘姿态检测关键点检测数据集YOLO格式1943张1类别3关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9tag==">下载</a></td></tr>
 <tr><td>智慧工业螺丝螺母螺栓垫圈检测数据集VOC+YOLO格式800张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWckp9rZQ==">下载</a></td></tr>
