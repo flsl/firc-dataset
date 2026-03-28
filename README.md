@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>飞机表面缺陷识别分割数据集labelme格式4612张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5xvag==">下载</a></td></tr>
+<tr><td>无人机视角热成像行人车辆检测数据集VOC+YOLO格式2755张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5tpag==">下载</a></td></tr>
+<tr><td>智慧工业玻璃瓶容器缺陷检测数据集VOC+YOLO格式2149张28类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5ptaQ==">下载</a></td></tr>
 <tr><td>电子元器件检测数据集VOC+YOLO格式1032张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lwZg==">下载</a></td></tr>
 <tr><td>智慧农业田间玉米果穗玉米棒子识别分割数据集labelme格式3271张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lvZg==">下载</a></td></tr>
 <tr><td>智慧医疗泡罩药板药片裂开缺失破损检测数据集VOC+YOLO格式2375张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5lubA==">下载</a></td></tr>
