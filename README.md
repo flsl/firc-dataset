@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧矿业传送带上煤矸石检测数据集VOC+YOLO格式7341张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJZtZA==">下载</a></td></tr>
+<tr><td>智慧工业X射线图像煤矸石检测数据集VOC+YOLO格式447张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJZsbQ==">下载</a></td></tr>
+<tr><td>手画电路图中电子元器件检测数据集VOC+YOLO格式1152张45类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck55rZw==">下载</a></td></tr>
+<tr><td>电子元器件垃圾检测数据集VOC+YOLO格式9719张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck55qbA==">下载</a></td></tr>
+<tr><td>药片胶囊空缺破损缺陷检测数据集VOC+YOLO格式2930张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck55qZA==">下载</a></td></tr>
+<tr><td>药片正背面缺失识别分割数据集labelme格式1111张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck51qag==">下载</a></td></tr>
 <tr><td>飞机表面缺陷识别分割数据集labelme格式4612张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5xvag==">下载</a></td></tr>
 <tr><td>无人机视角热成像行人车辆检测数据集VOC+YOLO格式2755张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5tpag==">下载</a></td></tr>
 <tr><td>智慧工业玻璃瓶容器缺陷检测数据集VOC+YOLO格式2149张28类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck5ptaQ==">下载</a></td></tr>
