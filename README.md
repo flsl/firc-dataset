@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>办公室内工作人员吃睡玩手机交谈检测数据集VOC+YOLO格式1337张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZZrag==">下载</a></td></tr>
+<tr><td>西方艺术画作作家识别名画作者识别检测数据集VOC+YOLO格式3006张34类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJ9vaQ==">下载</a></td></tr>
+<tr><td>非洲动物大象鹿豹犀牛狮子检测数据集VOC+YOLO格式1418张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJ9taw==">下载</a></td></tr>
+<tr><td>智慧交通公路交通事故城市道路交通事故检测数据集VOC+YOLO格式1741张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJxpaw==">下载</a></td></tr>
+<tr><td>平面设计图室内家具检测数据集VOC+YOLO格式770张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJluZw==">下载</a></td></tr>
+<tr><td>世界著名地标建筑知名历史遗迹现代建筑与自然景观检测数据集VOC+YOLO格式727张25类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJlrbA==">下载</a></td></tr>
+<tr><td>平面图元素室内家具与设施检测数据集VOC+YOLO格式6081张24类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJlqZQ==">下载</a></td></tr>
+<tr><td>办公室内人员工作状态检测数据集VOC+YOLO格式5833张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZZraA==">下载</a></td></tr>
 <tr><td>智慧矿业传送带上煤矸石检测数据集VOC+YOLO格式7341张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJZtZA==">下载</a></td></tr>
 <tr><td>智慧工业X射线图像煤矸石检测数据集VOC+YOLO格式447张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJZsbQ==">下载</a></td></tr>
 <tr><td>手画电路图中电子元器件检测数据集VOC+YOLO格式1152张45类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWck55rZw==">下载</a></td></tr>
