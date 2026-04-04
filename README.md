@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>迷彩伪装识别分割数据集labelme格式868张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZpubA==">下载</a></td></tr>
+<tr><td>迷彩伪装目标检测数据集VOC+YOLO格式839张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZpuZA==">下载</a></td></tr>
+<tr><td>铜片划痕识别分类数据集1557张3类别低分辨率</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZptaQ==">下载</a></td></tr>
+<tr><td>智能手机屏幕缺陷油污划痕斑点识别分割数据集labelme格式186张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZptZA==">下载</a></td></tr>
+<tr><td>智慧农业棉花叶子病害检测数据集VOC+YOLO格式1192张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZZvbA==">下载</a></td></tr>
+<tr><td>树木树干识别分割数据集labelme格式1315张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZpvZg==">下载</a></td></tr>
 <tr><td>办公室内工作人员吃睡玩手机交谈检测数据集VOC+YOLO格式1337张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZZrag==">下载</a></td></tr>
 <tr><td>西方艺术画作作家识别名画作者识别检测数据集VOC+YOLO格式3006张34类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJ9vaQ==">下载</a></td></tr>
 <tr><td>非洲动物大象鹿豹犀牛狮子检测数据集VOC+YOLO格式1418张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclJ9taw==">下载</a></td></tr>
