@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>学生抑郁与生活方式数据集csv格式10万条数据.zip</td><td><a href="https://mbd.pub/o/bread/YZWclZZqbA==">下载</a></td></tr>
 <tr><td>USPTO-50k化学反应数据csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZl59saA==">下载</a></td></tr>
 <tr><td>发动机故障检测数据数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZlppyaA==">下载</a></td></tr>
 <tr><td>韩国电力负荷预测数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwaQ==">下载</a></td></tr>
