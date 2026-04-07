@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗X光图像手骨骨折检测数据集VOC+YOLO格式20307张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9yZw==">下载</a></td></tr>
+<tr><td>智慧农业梨花花蕊检测数据集VOC+YOLO格式3321张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9waw==">下载</a></td></tr>
+<tr><td>半导体芯片破损表面划痕引脚断裂缺陷检测数据集VOC+YOLO格式1776张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9vZQ==">下载</a></td></tr>
+<tr><td>半导体芯片破损表面划痕引脚断裂缺陷识别分割数据集labelme格式1776张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9vZA==">下载</a></td></tr>
+<tr><td>高尔夫球检测数据集VOC+YOLO格式9489张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9ubQ==">下载</a></td></tr>
+<tr><td>智慧果园树上梨子检测数据集VOC+YOLO格式926张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9ubA==">下载</a></td></tr>
+<tr><td>钢材表面缺陷检测数据集VOC+YOLO格式1196张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9uZQ==">下载</a></td></tr>
 <tr><td>迷彩伪装识别分割数据集labelme格式868张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZpubA==">下载</a></td></tr>
 <tr><td>迷彩伪装目标检测数据集VOC+YOLO格式839张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZpuZA==">下载</a></td></tr>
 <tr><td>铜片划痕识别分类数据集1557张3类别低分辨率</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZptaQ==">下载</a></td></tr>
