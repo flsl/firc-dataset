@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>交警手势识别检测数据集VOC+YOLO格式5162张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ1xZw==">下载</a></td></tr>
 <tr><td>智慧医疗X光图像手骨骨折检测数据集VOC+YOLO格式20307张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9yZw==">下载</a></td></tr>
 <tr><td>智慧农业梨花花蕊检测数据集VOC+YOLO格式3321张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9waw==">下载</a></td></tr>
 <tr><td>半导体芯片破损表面划痕引脚断裂缺陷检测数据集VOC+YOLO格式1776张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9vZQ==">下载</a></td></tr>
