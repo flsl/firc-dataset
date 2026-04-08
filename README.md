@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>农作物叶片病害检测数据集VOC+YOLO格式2558张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclphpaA==">下载</a></td></tr>
+<tr><td>高压环境电力设施与安全工器具检测数据集VOC+YOLO格式9815张78类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpduag==">下载</a></td></tr>
+<tr><td>变电站红外图像高压设备过热检测数据集VOC+YOLO格式256张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpdtbQ==">下载</a></td></tr>
+<tr><td>智慧果园树上柑橘成熟度检测数据集VOC+YOLO格式1566张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpdsZg==">下载</a></td></tr>
+<tr><td>智慧果园桃子病害检测数据集VOC+YOLO格式3914张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpZuZg==">下载</a></td></tr>
 <tr><td>交警手势识别检测数据集VOC+YOLO格式5162张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ1xZw==">下载</a></td></tr>
 <tr><td>智慧医疗X光图像手骨骨折检测数据集VOC+YOLO格式20307张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9yZw==">下载</a></td></tr>
 <tr><td>智慧农业梨花花蕊检测数据集VOC+YOLO格式3321张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclZ9waw==">下载</a></td></tr>
