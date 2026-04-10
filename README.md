@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业田垄采摘机器人道路识别农作物过道区域识别分割数据集labelme格式211张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqaw==">下载</a></td></tr>
+<tr><td>智慧农业辣椒成熟度检测数据集VOC+YOLO格式513张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqaQ==">下载</a></td></tr>
+<tr><td>烟花检测数据集VOC+YOLO格式106张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqZw==">下载</a></td></tr>
+<tr><td>智慧农业甘蔗叶子病害检测数据集VOC+YOLO格式1248张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqZg==">下载</a></td></tr>
+<tr><td>智慧果园葡萄成熟度识别分割数据集labelme格式6501张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclppwag==">下载</a></td></tr>
+<tr><td>智慧果园葡萄成熟度检测数据集VOC+YOLO格式2708张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclppyaw==">下载</a></td></tr>
+<tr><td>电力场景圆形仪表读数检测数据集VOC+YOLO格式7698张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclplyZQ==">下载</a></td></tr>
 <tr><td>农作物叶片病害检测数据集VOC+YOLO格式2558张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclphpaA==">下载</a></td></tr>
 <tr><td>高压环境电力设施与安全工器具检测数据集VOC+YOLO格式9815张78类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpduag==">下载</a></td></tr>
 <tr><td>变电站红外图像高压设备过热检测数据集VOC+YOLO格式256张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpdtbQ==">下载</a></td></tr>
