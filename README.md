@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>建筑墙面腐蚀裂纹裂缝分层起皮污垢漆面缺陷检测数据集VOC+YOLO格式1000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxwZg==">下载</a></td></tr>
+<tr><td>狗狗是否佩戴嘴套遛狗嘴套佩戴检测数据集VOC+YOLO格式1483张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxubA==">下载</a></td></tr>
+<tr><td>狗狗牵绳没带嘴套遛狗规范检测数据集VOC+YOLO格式1728张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxtag==">下载</a></td></tr>
 <tr><td>智慧农业田垄采摘机器人道路识别农作物过道区域识别分割数据集labelme格式211张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqaw==">下载</a></td></tr>
 <tr><td>智慧农业辣椒成熟度检测数据集VOC+YOLO格式513张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqaQ==">下载</a></td></tr>
 <tr><td>烟花检测数据集VOC+YOLO格式106张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxqZw==">下载</a></td></tr>
