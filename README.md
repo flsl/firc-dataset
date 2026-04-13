@@ -149,7 +149,7 @@
 <tr><td>智慧养殖鱼类疾病识别分类数据集1184张7类别已划分训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxybA==">下载</a></td></tr>
 <tr><td>水位标尺测量水位读数水位监测检测数据集VOC+YOLO格式493张60类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxwZQ==">下载</a></td></tr>
 <tr><td>无人机视角风力发电机叶片缺陷识别分割数据集labelme格式6153张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZtyZA==">下载</a></td></tr>
-<tr><td>智慧交通高速公路抛洒物检测数据集VOC+YOLO格式3996张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZttaA==">下载</a></td></tr>
+<tr><td>智慧交通高速公路抛洒物检测数据集VOC+YOLO格式3966张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZttaA==">下载</a></td></tr>
 <tr><td>无人机视角树冠识别分割数据集labelme格式1288张59类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxqbQ==">下载</a></td></tr>
 <tr><td>监控视角下河道水域水体识别分割数据集labelme格式2812张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZxpaw==">下载</a></td></tr>
 <tr><td>人员躺站坐识别人员跌倒检测人员行为状态检测数据集VOC+YOLO格式3118张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmZpwZA==">下载</a></td></tr>
