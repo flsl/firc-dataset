@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>建筑墙面裂缝检测数据集VOC+YOLO格式1795张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5dtZw==">下载</a></td></tr>
+<tr><td>红外光图像人脸组成人脸部件人脸部位识别分割数据集labelme格式886张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5draw==">下载</a></td></tr>
+<tr><td>红外光面部表情人脸表情检测数据集VOC+YOLO格式338张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5draQ==">下载</a></td></tr>
+<tr><td>无人机视角城市垃圾工业区垃圾废弃物检测数据集VOC+YOLO格式3385张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5dpZA==">下载</a></td></tr>
+<tr><td>智慧交通红外热成像道路路面裂缝严重程度检测数据集VOC+YOLO格式3437张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5ZxZg==">下载</a></td></tr>
+<tr><td>建筑混凝土墙面缺陷检测钢筋外露起皮泛碱裂缝数据集VOC+YOLO格式4157张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl5dtbQ==">下载</a></td></tr>
+<tr><td>智慧交通货车装载状态满载空载卡车是否载货检测数据集VOC+YOLO格式1053张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclp5yag==">下载</a></td></tr>
+<tr><td>智慧矿井传送带上铁铲识别分割数据集labelme格式211张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclp5rZA==">下载</a></td></tr>
 <tr><td>建筑墙面腐蚀裂纹裂缝分层起皮污垢漆面缺陷检测数据集VOC+YOLO格式1000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxwZg==">下载</a></td></tr>
 <tr><td>狗狗是否佩戴嘴套遛狗嘴套佩戴检测数据集VOC+YOLO格式1483张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxubA==">下载</a></td></tr>
 <tr><td>狗狗牵绳没带嘴套遛狗规范检测数据集VOC+YOLO格式1728张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWclpxtag==">下载</a></td></tr>
