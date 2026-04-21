@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>图片水印检测数据集VOC+YOLO格式9613张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJtpbA==">下载</a></td></tr>
+<tr><td>吊车检测数据集VOC+YOLO格式726张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJpybA==">下载</a></td></tr>
+<tr><td>电动车摩托车自行车检测数据集VOC+YOLO格式3453张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJpxaQ==">下载</a></td></tr>
+<tr><td>pdf文档水印检测数据集VOC+YOLO格式6276张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJtpZA==">下载</a></td></tr>
 <tr><td>汽车发动机舱部件前车盖引擎部位部件设备检测数据集VOC+YOLO格式622张25类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJpraw==">下载</a></td></tr>
 <tr><td>坐姿好坏检测数据集VOC+YOLO格式3342张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJlpaA==">下载</a></td></tr>
 <tr><td>无人机视角太阳能光伏板热成像红外图像缺陷检测数据集VOC+YOLO格式1229张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxtbA==">下载</a></td></tr>
