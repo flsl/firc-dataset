@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>汽车发动机舱部件前车盖引擎部位部件设备检测数据集VOC+YOLO格式622张25类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJpraw==">下载</a></td></tr>
+<tr><td>坐姿好坏检测数据集VOC+YOLO格式3342张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJlpaA==">下载</a></td></tr>
+<tr><td>无人机视角太阳能光伏板热成像红外图像缺陷检测数据集VOC+YOLO格式1229张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxtbA==">下载</a></td></tr>
+<tr><td>智能手机屏幕缺陷油污划痕识别分割数据集labelme格式1091张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJhpZw==">下载</a></td></tr>
+<tr><td>智慧农业辣椒成熟度检测数据集VOC+YOLO格式1755张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJdpaA==">下载</a></td></tr>
+<tr><td>铁轨缺陷检测数据集VOC+YOLO格式4020张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJZvbA==">下载</a></td></tr>
+<tr><td>轮胎表面缺陷识别分割数据集labelme格式879张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJZtZA==">下载</a></td></tr>
+<tr><td>智慧医疗药盒药品包装盒识别分割数据集labeme格式3449张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl59paA==">下载</a></td></tr>
+<tr><td>智慧医疗药盒药品包装盒检测数据集VOC+YOLO格式3000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl59pZA==">下载</a></td></tr>
+<tr><td>起重机手势识别手势信号手语检测数据集VOC+YOLO格式3364张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55ybA==">下载</a></td></tr>
 <tr><td>无人机视角空田水田稻田识别分割数据集labelme格式528张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55uaw==">下载</a></td></tr>
 <tr><td>无人机视角稻田识别分割数据集labelme格式869张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55tZw==">下载</a></td></tr>
 <tr><td>无人机视角屋顶识别分割数据集labelme格式1650张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcl55tZA==">下载</a></td></tr>
@@ -1712,7 +1722,6 @@
 <tr><td>[数据集][目标检测]瞳孔虹膜检测数据集VOC+YOLO格式8768张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141374289">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]工程机械车辆检测数据集VOC+YOLO格式3189张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141373590">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]木材缺陷检测数据集VOC+YOLO格式2383张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141373520">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]铁轨缺陷检测数据集VOC+YOLO格式4020张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141368870">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]竹子甘蔗发芽缺陷检测数据集VOC+YOLO格式2953张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141368232">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]夜间老鼠检测数据集VOC+YOLO格式316张1类别+视频文件1个</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141367561">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]扳手检测数据集VOC+YOLO格式1042张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141366697">详情</a></td><td><a href="info.md">下载</a></td></tr>
