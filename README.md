@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>油菜田油菜苗和杂草检测数据集VOC+YOLO格式3146张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5qbQ==">下载</a></td></tr>
+<tr><td>智慧交通道路安全事故检测数据集VOC+YOLO格式1751张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5qaw==">下载</a></td></tr>
+<tr><td>圣女果成熟度检测数据集VOC+YOLO格式1012张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5qZQ==">下载</a></td></tr>
+<tr><td>红外热成像建筑墙面缺陷裂缝掉皮空洞漏水检测数据集VOC+YOLO格式463张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ1rZg==">下载</a></td></tr>
 <tr><td>图片水印检测数据集VOC+YOLO格式9613张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJtpbA==">下载</a></td></tr>
 <tr><td>吊车检测数据集VOC+YOLO格式726张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJpybA==">下载</a></td></tr>
 <tr><td>电动车摩托车自行车检测数据集VOC+YOLO格式3453张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJpxaQ==">下载</a></td></tr>
