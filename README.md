@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角烟草植株出苗率识别分割数据集labelme格式1931张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9uZg==">下载</a></td></tr>
+<tr><td>无人机视角烟草植株出苗率检测数据集VOC+YOLO格式540张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9tZA==">下载</a></td></tr>
+<tr><td>无人机视角田间土豆马铃薯苗和杂草检测数据集VOC+YOLO格式384张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9pZQ==">下载</a></td></tr>
+<tr><td>智慧农业茶叶嫩芽检测数据集VOC+YOLO格式3288张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9pZA==">下载</a></td></tr>
+<tr><td>智慧医疗MRI图像腰椎椎骨检测数据集VOC+YOLO格式514张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5yaA==">下载</a></td></tr>
+<tr><td>智慧医疗MRI图像腰椎腰间盘突出膨出检测数据集VOC+YOLO格式666张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5xaQ==">下载</a></td></tr>
+<tr><td>智慧医疗MRI图像腰脊椎滑脱症检测数据集VOC+YOLO格式1261张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5xZw==">下载</a></td></tr>
 <tr><td>油菜田油菜苗和杂草检测数据集VOC+YOLO格式3146张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5qbQ==">下载</a></td></tr>
 <tr><td>智慧交通道路安全事故检测数据集VOC+YOLO格式1751张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5qaw==">下载</a></td></tr>
 <tr><td>圣女果成熟度检测数据集VOC+YOLO格式1012张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ5qZQ==">下载</a></td></tr>
