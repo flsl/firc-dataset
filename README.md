@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>芒果叶子病害识别分割数据集labelme格式3642张5类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZlvag==">下载</a></td></tr>
+<tr><td>可可豆病害缺陷检测数据集VOC+YOLO格式1744张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZlvZA==">下载</a></td></tr>
+<tr><td>芒果叶子病害检测数据集VOC+YOLO格式2925张5类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZltZA==">下载</a></td></tr>
+<tr><td>榴莲叶子病害识别分割数据集labelme格式418张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZZuaQ==">下载</a></td></tr>
+<tr><td>榴莲叶子病害检测数据集VOC+YOLO格式420张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZZtbQ==">下载</a></td></tr>
+<tr><td>榴莲成熟度检测数据集VOC+YOLO格式2552张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZZtbA==">下载</a></td></tr>
+<tr><td>[目标检测][数据集]电瓶车进电梯电动车入梯电动车进电梯数据集VOC+YOLO格式727张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9yZg==">下载</a></td></tr>
+<tr><td>金属铸件缺陷检测数据集VOC+YOLO格式774张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZlvaA==">下载</a></td></tr>
 <tr><td>无人机视角烟草植株出苗率识别分割数据集labelme格式1931张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9uZg==">下载</a></td></tr>
 <tr><td>无人机视角烟草植株出苗率检测数据集VOC+YOLO格式540张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9tZA==">下载</a></td></tr>
 <tr><td>无人机视角田间土豆马铃薯苗和杂草检测数据集VOC+YOLO格式384张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmJ9pZQ==">下载</a></td></tr>
@@ -2021,7 +2029,6 @@
 <tr><td>[数据集][目标检测]隔离栅损坏防护栏损坏数据集VOC-28张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133856463">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]智慧城市沿街晾晒检测数据集VOC+YOLO格式625张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133850622">详情</a></td><td><a href="https://mbd.pub/o/bread/aJWTkphs">下载</a></td></tr>
 <tr><td>[数据集][目标检测]垃圾桶溢出数据集VOC+YOLO格式3类别3493张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133842375">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[目标检测][数据集]电瓶车进电梯电动车入梯电动车进电梯数据集727张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133612343">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]消防栓目标检测数据集VOC+YOLO格式2600张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133420370">详情</a></td><td><a href="https://mbd.pub/o/bread/aJWUlphw">下载</a></td></tr>
 <tr><td>[数据集][目标检测]裸土识别裸土未覆盖目标检测数据集VOC+YOLO格式857张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132698616">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-Z52Tmppt">下载</a></td></tr>
 <tr><td>[数据集][目标检测]疲劳驾驶数据集VOC格式4类别-4362张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132481642">详情</a></td><td><a href="info.md">下载</a></td></tr>
