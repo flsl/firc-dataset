@@ -3,6 +3,24 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>对虾识别虾群计数检测数据集VOC+YOLO格式3360张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxuaQ==">下载</a></td></tr>
+<tr><td>对虾识别虾群计数分割数据集labelme格式3360张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxuZQ==">下载</a></td></tr>
+<tr><td>智慧医疗OCT视网膜病变检测数据集VOC+YOLO格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqbA==">下载</a></td></tr>
+<tr><td>智慧医疗OCT视网膜病变识别分割数据集labelme格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqaQ==">下载</a></td></tr>
+<tr><td>水下小目标鱼类检测数据集VOC+YOLO格式1190张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqZQ==">下载</a></td></tr>
+<tr><td>水下小目标鱼类识别分割数据集labelme格式1190张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtybQ==">下载</a></td></tr>
+<tr><td>智慧农业马铃薯叶子土豆叶子病害检测数据集VOC+YOLO格式3004张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtyag==">下载</a></td></tr>
+<tr><td>智慧果园树上橘子成熟度检测数据集VOC+YOLO格式1566张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtyZw==">下载</a></td></tr>
+<tr><td>智慧养殖猪只疾病检测数据集VOC+YOLO格式1462张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtyZQ==">下载</a></td></tr>
+<tr><td>鱼群计数检测数据集VOC+YOLO格式1806张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtxbQ==">下载</a></td></tr>
+<tr><td>遥感湖泊检测数据集VOC+YOLO格式165张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtxbA==">下载</a></td></tr>
+<tr><td>玉米植株生长阶段检测数据集VOC+YOLO格式1482张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtxag==">下载</a></td></tr>
+<tr><td>智慧农业马铃薯叶子病害检测数据集VOC+YOLO格式1774张3类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtxaA==">下载</a></td></tr>
+<tr><td>电梯故障检测数据集VOC+YOLO格式1000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtwbQ==">下载</a></td></tr>
+<tr><td>校园暴力检测数据集VOC+YOLO格式3827张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtwaw==">下载</a></td></tr>
+<tr><td>线上监考作弊考试电脑上线考试违规检测数据集VOC+YOLO格式5351张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtwaA==">下载</a></td></tr>
+<tr><td>智慧医疗骨折检测数据集VOC+YOLO格式437张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtwZw==">下载</a></td></tr>
+<tr><td>雾天船只检测数据集VOC+YOLO格式1386张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZtwZg==">下载</a></td></tr>
 <tr><td>芒果叶子病害识别分割数据集labelme格式3642张5类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZlvag==">下载</a></td></tr>
 <tr><td>可可豆病害缺陷检测数据集VOC+YOLO格式1744张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZlvZA==">下载</a></td></tr>
 <tr><td>芒果叶子病害检测数据集VOC+YOLO格式2925张5类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZltZA==">下载</a></td></tr>
