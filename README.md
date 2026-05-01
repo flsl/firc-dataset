@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>变电站红外和可见光配对数据集刀闸套管断路器电压电流互感器避雷器等检测数据集VOC+YOLO格式2354张17类1177对</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmpttaQ==">下载</a></td></tr>
+<tr><td>快递包裹识别分割数据集labelme格式1703张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmphvZw==">下载</a></td></tr>
+<tr><td>无人机视角风力涡轮机缺陷检测数据集VOC+YOLO格式5464张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZ9waA==">下载</a></td></tr>
+<tr><td>智慧交通道路交通路锥反光锥检测数据集VOC+YOLO格式6467张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZ1tag==">下载</a></td></tr>
+<tr><td>快递包裹检测数据集VOC+YOLO格式2914张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmpZtbQ==">下载</a></td></tr>
 <tr><td>对虾识别虾群计数检测数据集VOC+YOLO格式3360张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxuaQ==">下载</a></td></tr>
 <tr><td>对虾识别虾群计数分割数据集labelme格式3360张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxuZQ==">下载</a></td></tr>
 <tr><td>智慧医疗OCT视网膜病变检测数据集VOC+YOLO格式5099张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWcmZxqbA==">下载</a></td></tr>
