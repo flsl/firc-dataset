@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>玻璃瓶缺陷模塑玻璃外观瑕疵缺陷检测数据集VOC+YOLO格式2149张28类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphyZg==">下载</a></td></tr>
+<tr><td>智慧厨房厨师帽佩戴规范检测帽檐朝前朝后检测数据集VOC+YOLO格式2884张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphxZQ==">下载</a></td></tr>
+<tr><td>田间杂草检测数据集VOC+YOLO格式2320张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphubA==">下载</a></td></tr>
+<tr><td>甲烷气体识别泄漏识别分割数据集labelme格式1175张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphtbA==">下载</a></td></tr>
+<tr><td>无人机视角甲烷气体泄漏识别分割数据集labelme格式1094张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphtZg==">下载</a></td></tr>
+<tr><td>打火机甲烷气体泄漏识别分割数据集labelme格式635张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphsaQ==">下载</a></td></tr>
+<tr><td>轴承外壳轴检测数据集VOC+YOLO格式510张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphsaA==">下载</a></td></tr>
+<tr><td>南瓜叶子叶片病害检测数据集VOC+YOLO格式1996张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphrbA==">下载</a></td></tr>
+<tr><td>药用植物识别分类数据集15257张98类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphraw==">下载</a></td></tr>
+<tr><td>猕猴桃叶子叶片病害图像分类数据集9639张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphraQ==">下载</a></td></tr>
+<tr><td>杂草分类数据集2652张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphpaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍智慧工地巡检护栏坑警示标语安全设施监测数据集VOC+YOLO格式6051张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpdrbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍道路病害及设施检测数据集VOC+YOLO格式813张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpZsbQ==">下载</a></td></tr>
 <tr><td>瓦钉固定钉木箱上钉子检测数据集VOC+YOLO格式2812张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpZsaw==">下载</a></td></tr>
 <tr><td>智慧医疗药丸裂纹缺失缺陷检测数据集VOC+YOLO格式1725张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpZrbA==">下载</a></td></tr>
