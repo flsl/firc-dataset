@@ -3,6 +3,20 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧桥梁排水口和螺栓检测数据集VOC+YOLO格式1386张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptrbA==">下载</a></td></tr>
+<tr><td>智慧城市路灯和垃圾桶检测数据集VOC+YOLO格式654张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptraw==">下载</a></td></tr>
+<tr><td>智慧工地施工建筑梁墙柱的钢筋混凝土模板识别分割数据集labelme格式387张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptrZg==">下载</a></td></tr>
+<tr><td>冰壶运动检测数据集VOC+YOLO格式2339张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmppwaA==">下载</a></td></tr>
+<tr><td>智慧医疗眼科白内障手术器具眼部要素识别分割数据集labelme格式6094张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmppvZA==">下载</a></td></tr>
+<tr><td>红外热成像图像工件表面缺陷检测数据集VOC+YOLO格式1257张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmppubQ==">下载</a></td></tr>
+<tr><td>太阳能板光伏缺陷检测数据集VOC+YOLO格式719张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmppuag==">下载</a></td></tr>
+<tr><td>工业物料分类数据集10149张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmppsbA==">下载</a></td></tr>
+<tr><td>消防通道占用应急车道占用图像分类数据集216张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmppraw==">下载</a></td></tr>
+<tr><td>智慧铁路巡检轨道探伤钢轨缺陷检测数据集VOC+YOLO格式1464张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpppaQ==">下载</a></td></tr>
+<tr><td>智慧农业各种水稻害虫检测数据集VOC+YOLO格式615张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmplxaw==">下载</a></td></tr>
+<tr><td>智慧农业芥菜榨菜叶片叶子病害检测数据集VOC+YOLO格式2305张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmplxag==">下载</a></td></tr>
+<tr><td>智慧建筑物缺陷混凝土蜂窝麻面识别分割数据集labelme格式915张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmplxaA==">下载</a></td></tr>
+<tr><td>智慧交通城市道路路面积水识别分割数据集labelme格式1489张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmplxZw==">下载</a></td></tr>
 <tr><td>玻璃瓶缺陷模塑玻璃外观瑕疵缺陷检测数据集VOC+YOLO格式2149张28类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphyZg==">下载</a></td></tr>
 <tr><td>智慧厨房厨师帽佩戴规范检测帽檐朝前朝后检测数据集VOC+YOLO格式2884张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphxZQ==">下载</a></td></tr>
 <tr><td>田间杂草检测数据集VOC+YOLO格式2320张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmphubA==">下载</a></td></tr>
