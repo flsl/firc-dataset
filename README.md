@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗脑部异常计算机辅助分割数据集labelme格式1391张14类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxtaw==">下载</a></td></tr>
+<tr><td>智慧交通汽车车辆冒黑烟车身冒烟出故障检测数据集VOC+YOLO格式2858张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptxZg==">下载</a></td></tr>
+<tr><td>自然灾害图像分类数据集13376张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptwaA==">下载</a></td></tr>
+<tr><td>交通事故图像分类数据集3550张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptuag==">下载</a></td></tr>
+<tr><td>工地施工电气导管识别分割数据集labelme格式651张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxtbA==">下载</a></td></tr>
 <tr><td>智慧桥梁排水口和螺栓检测数据集VOC+YOLO格式1386张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptrbA==">下载</a></td></tr>
 <tr><td>智慧城市路灯和垃圾桶检测数据集VOC+YOLO格式654张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptraw==">下载</a></td></tr>
 <tr><td>智慧工地施工建筑梁墙柱的钢筋混凝土模板识别分割数据集labelme格式387张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptrZg==">下载</a></td></tr>
