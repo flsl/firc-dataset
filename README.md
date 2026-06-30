@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍树木检测数据集VOC+YOLO格式1485张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hsbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍违建违章建筑识别数据集labelme格式245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hraA==">下载</a></td></tr>
+<tr><td>服装分类识别检测数据集VOC+YOLO格式3698张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dwZA==">下载</a></td></tr>
+<tr><td>马检测数据集VOC+YOLO格式7073张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dvbA==">下载</a></td></tr>
+<tr><td>氧气罐氧气瓶检测数据集VOC+YOLO格式865张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dvZg==">下载</a></td></tr>
+<tr><td>水面水藻识别检测数据集VOC+YOLO格式624张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dvZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍违建非法采矿违规堆放检测数据集VOC+YOLO格式1869张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lqbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍树木识别分割数据集labelme格式2029张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lqag==">下载</a></td></tr>
 <tr><td>智慧农业田间害虫农业害虫农田害虫检测数据集VOC+YOLO格式2815张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dpbQ==">下载</a></td></tr>
 <tr><td>监控视角驾驶员是否系安全带检测数据集VOC+YOLO格式771张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ZrZg==">下载</a></td></tr>
 <tr><td>高速监控视角抓拍安全带打电话车窗检测数据集1116张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ZqbA==">下载</a></td></tr>
