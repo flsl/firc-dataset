@@ -3,6 +3,19 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业田间害虫农业害虫农田害虫检测数据集VOC+YOLO格式2815张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dpbQ==">下载</a></td></tr>
+<tr><td>监控视角驾驶员是否系安全带检测数据集VOC+YOLO格式771张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ZrZg==">下载</a></td></tr>
+<tr><td>高速监控视角抓拍安全带打电话车窗检测数据集1116张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ZqbA==">下载</a></td></tr>
+<tr><td>药品外包装缺陷检测数据集VOC+YOLO格式1211张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp9vbA==">下载</a></td></tr>
+<tr><td>建筑物混凝土墙面脱落剥落裂缝识别分割数据集labelme格式1576张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp9tbQ==">下载</a></td></tr>
+<tr><td>面包发霉变质检测数据集VOC+YOLO格式174张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp9tag==">下载</a></td></tr>
+<tr><td>智慧医疗X光图像龋齿蛀牙识别分割数据集labelme格式3507张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp9raA==">下载</a></td></tr>
+<tr><td>智慧医疗牙齿与蛀牙龋齿识别分割数据集labelme格式2494张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp9rZA==">下载</a></td></tr>
+<tr><td>无人机视角智慧林业云杉赤松检测数据集VOC+YOLO格式200张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmp1xaw==">下载</a></td></tr>
+<tr><td>红外图像太阳能光伏板积雪识别分割数据集labelme格式234张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxvbQ==">下载</a></td></tr>
+<tr><td>太阳能光伏板积雪识别分割数据集labelme格式243张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxvaQ==">下载</a></td></tr>
+<tr><td>智慧交通道路口监控视角车辆驾驶员未系安全带佩戴规范检测数据集VOC+YOLO格式2357张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxvZA==">下载</a></td></tr>
+<tr><td>道路交通事故路面坑洞裂缝建筑倒塌检测数据集VOC+YOLO格式3767张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxubQ==">下载</a></td></tr>
 <tr><td>智慧医疗脑部异常计算机辅助分割数据集labelme格式1391张14类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmpxtaw==">下载</a></td></tr>
 <tr><td>智慧交通汽车车辆冒黑烟车身冒烟出故障检测数据集VOC+YOLO格式2858张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptxZg==">下载</a></td></tr>
 <tr><td>自然灾害图像分类数据集13376张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTmptwaA==">下载</a></td></tr>
