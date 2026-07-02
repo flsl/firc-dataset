@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>排水管道地下管道缺陷图像分类数据集9085张219类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pwZw==">下载</a></td></tr>
+<tr><td>皮肤病图像分类数据集9768张22类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pvZg==">下载</a></td></tr>
+<tr><td>智慧养殖生猪皮肤病分类数据集7000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pvZQ==">下载</a></td></tr>
+<tr><td>血型指纹分类数据集14365张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pubA==">下载</a></td></tr>
+<tr><td>狗狗行为动作分类数据集5015张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5puag==">下载</a></td></tr>
+<tr><td>毫米波人体动作姿态分类数据集3057张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ptaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍森林树木健康状况检测数据集VOC+YOLO格式276张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ptZw==">下载</a></td></tr>
+<tr><td>衣服污渍检测数据集VOC+YOLO格式221张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5ppaQ==">下载</a></td></tr>
+<tr><td>智慧医疗MRI图像脑部肿瘤分类数据集6597张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pvZA==">下载</a></td></tr>
+<tr><td>Apex检测数据集Apex Legend游戏敌友方检测数据集VOC+YOLO格式5671张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lsaw==">下载</a></td></tr>
+<tr><td>茄子叶片叶子病害检测数据集VOC+YOLO格式2087张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lrZA==">下载</a></td></tr>
+<tr><td>洋葱病害紫斑病叶枯病检测数据集VOC+YOLO格式1053张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5lqbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍树木检测数据集VOC+YOLO格式1485张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hsbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍违建违章建筑识别数据集labelme格式245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5hraA==">下载</a></td></tr>
 <tr><td>服装分类识别检测数据集VOC+YOLO格式3698张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5dwZA==">下载</a></td></tr>
