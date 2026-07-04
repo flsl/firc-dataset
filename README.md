@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>墙面砖头裂缝识别分割数据集labelme格式1273张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55uZQ==">下载</a></td></tr>
+<tr><td>无人机视角水稻倒伏识别分割数据集labelme格式175张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55qaQ==">下载</a></td></tr>
+<tr><td>车辆表面缺陷汽车车身凹痕划痕损伤检测数据集VOC+YOLO格式3001张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55qZg==">下载</a></td></tr>
+<tr><td>智能仪表OCR读数各种仪表电表水表气压表读数检测数据集VOC+YOLO格式6316张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm51xaQ==">下载</a></td></tr>
+<tr><td>工业紧固件螺栓垫圈检测数据集VOC+YOLO格式2357张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm51xaA==">下载</a></td></tr>
+<tr><td>鸡品种类型检测数据集VOC+YOLO格式1670张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5xxaA==">下载</a></td></tr>
+<tr><td>养猪场耳标检测数据集VOC+YOLO格式744张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5xuaA==">下载</a></td></tr>
+<tr><td>奶牛场耳标检测数据集VOC+YOLO格式334张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5xtaw==">下载</a></td></tr>
+<tr><td>养殖场牛行为关键点姿态估计检测数据集COCO+YOLO格式497张3类别7关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5xqag==">下载</a></td></tr>
+<tr><td>城市经营行为数据集散落垃圾店外经营广告牌流动摊贩占道经营检测数据集VOC+YOLO格式856张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pyaA==">下载</a></td></tr>
 <tr><td>排水管道地下管道缺陷图像分类数据集9085张219类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pwZw==">下载</a></td></tr>
 <tr><td>皮肤病图像分类数据集9768张22类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pvZg==">下载</a></td></tr>
 <tr><td>智慧养殖生猪皮肤病分类数据集7000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm5pvZQ==">下载</a></td></tr>
