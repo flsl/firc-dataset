@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>鸭蛋质检检测数据集VOC+YOLO格式4546张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5sbQ==">下载</a></td></tr>
+<tr><td>老旧房屋建筑表面病害缺陷腐蚀裂缝剥落检测数据集VOC+YOLO格式1000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5sbA==">下载</a></td></tr>
+<tr><td>舌头舌象疾病诊断图像分类数据集9890张166类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp1tbQ==">下载</a></td></tr>
+<tr><td>电气设备配电箱开关保护器件插座检测数据集VOC+YOLO格式4135张10类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5saA==">下载</a></td></tr>
+<tr><td>智慧交通城市道路路面车辙印深浅程度识别分割数据集labelme格式89张3类别.7z</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkpxwZA==">下载</a></td></tr>
+<tr><td>车轮毂制动点位等区域检测数据集VOC+YOLO格式299张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkpxxZg==">下载</a></td></tr>
+<tr><td>智慧交通城市道路路面车辙印深浅程度识别分割数据集labelme格式89张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkpxwZQ==">下载</a></td></tr>
+<tr><td>智慧城市道路路面车辙印检测数据集VOC+YOLO格式903张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkpxvZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍违建河道双检测数据集VOC+YOLO格式1132张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkpxsZA==">下载</a></td></tr>
 <tr><td>墙面砖头裂缝识别分割数据集labelme格式1273张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55uZQ==">下载</a></td></tr>
 <tr><td>无人机视角水稻倒伏识别分割数据集labelme格式175张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55qaQ==">下载</a></td></tr>
 <tr><td>车辆表面缺陷汽车车身凹痕划痕损伤检测数据集VOC+YOLO格式3001张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaTm55qZg==">下载</a></td></tr>
