@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>五十种常见中药材识别检测数据集VOC+YOLO格式5085张50类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dqZw==">下载</a></td></tr>
+<tr><td>雨天高速路上光线强弱雨点检测数据集VOC+YOLO格式6055张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dqZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍路面坑洼裂纹检测数据集VOC+YOLO格式4444张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dpaQ==">下载</a></td></tr>
+<tr><td>漏水跑冒滴漏识别分割数据集labelme格式4867张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5ZpaA==">下载</a></td></tr>
+<tr><td>螺母螺栓松动缺失检测数据集VOC+YOLO格式627张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp9yZg==">下载</a></td></tr>
+<tr><td>无人机视角智慧交通道路路面井盖异常丢失破损未盖好检测数据集VOC+YOLO格式851张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp9xaQ==">下载</a></td></tr>
+<tr><td>蚕宝宝识别分割数据集labelme格式615张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp9sbQ==">下载</a></td></tr>
+<tr><td>焊缝缺陷裂纹气孔烧痕检测数据集VOC+YOLO格式1059张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp9sbA==">下载</a></td></tr>
+<tr><td>车轮轮胎上的螺丝检测数据集VOC+YOLO格式814张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp9saA==">下载</a></td></tr>
+<tr><td>无人机视角航拍挖掘机检测数据集VOC+YOLO格式336张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5wbA==">下载</a></td></tr>
 <tr><td>鸭蛋质检检测数据集VOC+YOLO格式4546张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5sbQ==">下载</a></td></tr>
 <tr><td>老旧房屋建筑表面病害缺陷腐蚀裂缝剥落检测数据集VOC+YOLO格式1000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp5sbA==">下载</a></td></tr>
 <tr><td>舌头舌象疾病诊断图像分类数据集9890张166类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUkp1tbQ==">下载</a></td></tr>
