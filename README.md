@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工地裸土与防尘网识别分割数据集labelme格式1119张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5hrZQ==">下载</a></td></tr>
+<tr><td>智慧果园实拍高清菠萝成熟度检测数据集VOC+YOLO格式7808张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dvaw==">下载</a></td></tr>
+<tr><td>智慧果园实拍高清菠萝成熟度识别分割数据集labelme格式7808张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dvZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍矿场施工车辆铲车卡车等检测数据集VOC+YOLO格式1222张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5psag==">下载</a></td></tr>
+<tr><td>排球和篮球目标检测数据集VOC+YOLO格式3401张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5hwaA==">下载</a></td></tr>
 <tr><td>五十种常见中药材识别检测数据集VOC+YOLO格式5085张50类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dqZw==">下载</a></td></tr>
 <tr><td>雨天高速路上光线强弱雨点检测数据集VOC+YOLO格式6055张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dqZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍路面坑洼裂纹检测数据集VOC+YOLO格式4444张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dpaQ==">下载</a></td></tr>
