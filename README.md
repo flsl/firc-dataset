@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>椰子成熟度检测数据集VOC+YOLO格式2887张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tyaw==">下载</a></td></tr>
+<tr><td>树上椰子检测数据集VOC+YOLO格式1030张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tyZg==">下载</a></td></tr>
+<tr><td>无人机视角智慧果园树上核桃检测数据集VOC+YOLO格式22203张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5txag==">下载</a></td></tr>
+<tr><td>核桃叶子叶片病害图像分类数据集5030张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5txZw==">下载</a></td></tr>
+<tr><td>智慧医疗ECG心电图心肌梗死新冠肺炎识别图像分类数据集3935张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tuZQ==">下载</a></td></tr>
+<tr><td>树上椰子成熟度检测数据集VOC+YOLO格式1204张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tyaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍城市道路高速公路抛洒物异物检测数据集VOC+YOLO格式2507张8类别合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tqaw==">下载</a></td></tr>
 <tr><td>智慧工地裸土与防尘网识别分割数据集labelme格式1119张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5hrZQ==">下载</a></td></tr>
 <tr><td>智慧果园实拍高清菠萝成熟度检测数据集VOC+YOLO格式7808张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dvaw==">下载</a></td></tr>
 <tr><td>智慧果园实拍高清菠萝成熟度识别分割数据集labelme格式7808张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5dvZw==">下载</a></td></tr>
