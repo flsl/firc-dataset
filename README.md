@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>香菇菌菇蘑菇病害识别分割数据集labelme格式535张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJhsZg==">下载</a></td></tr>
+<tr><td>香菇菌菇蘑菇健康状态蘑菇病害检测数据集VOC+YOLO格式785张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJhrag==">下载</a></td></tr>
+<tr><td>无人机视角道路两旁边坡排水沟堵塞沟渠泥土淤积检测数据集VOC+YOLO格式1488张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk51vZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍建筑垃圾检测数据集VOC+YOLO格式2944张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk51yZQ==">下载</a></td></tr>
+<tr><td>智慧交通高速公路城市道路路面抛洒物散落货物障碍物检测数据集VOC+YOLO格式4521张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJhxaQ==">下载</a></td></tr>
 <tr><td>椰子成熟度检测数据集VOC+YOLO格式2887张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tyaw==">下载</a></td></tr>
 <tr><td>树上椰子检测数据集VOC+YOLO格式1030张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5tyZg==">下载</a></td></tr>
 <tr><td>无人机视角智慧果园树上核桃检测数据集VOC+YOLO格式22203张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk5txag==">下载</a></td></tr>
@@ -830,7 +835,6 @@
 <tr><td>智慧交通车辆违停违章停车非法停车车辆违章检测数据集VOC+YOLO格式979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5vZA==">下载</a></td></tr>
 <tr><td>智慧交通高速公路城市道路路面车辆行为锥形桶抛洒物检测数据集VOC+YOLO格式2797张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5saQ==">下载</a></td></tr>
 <tr><td>罐子塑料树枝纸张玻璃聚乙烯检测数据集VOC+YOLO格式8797张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp1xbA==">下载</a></td></tr>
-<tr><td>智慧交通高速公路城市道路路面抛洒物散落货物障碍物检测数据集VOC+YOLO格式4521张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWblJZuZA==">下载</a></td></tr>
 <tr><td>桥梁墙面混凝土裂缝风化识别分割数据集labelme格式7752张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxwag==">下载</a></td></tr>
 <tr><td>混凝土墙壁裂缝剥落识别分割数据集labelme格式1497张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxwZQ==">下载</a></td></tr>
 <tr><td>无人机视角太阳能光伏板热成像红外图像缺陷检测数据集VOC+YOLO格式1229张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxtbA==">下载</a></td></tr>
