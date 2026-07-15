@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角裸土覆盖识别分割数据集labelme格式592张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpwbQ==">下载</a></td></tr>
+<tr><td>道路巡检路面堆沙路障坑洞检测数据集VOC+YOLO格式3009张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpwZg==">下载</a></td></tr>
+<tr><td>建筑工地施工机械人员材料施工要素目标检测数据集VOC+YOLO格式27278张26类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpubQ==">下载</a></td></tr>
+<tr><td>道路障碍物检测数据集VOC+YOLO格式14844张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJprag==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道巡检垃圾及周边坍塌隐患检测数据集VOC+YOLO格式6686张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJppag==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路路面标线损伤评估检测数据集VOC+YOLO格式175张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJppZA==">下载</a></td></tr>
+<tr><td>向日葵叶子叶片病害检测数据集VOC+YOLO格式353张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJlyZA==">下载</a></td></tr>
+<tr><td>RSDD-SAR遥感船舶检测数据集VOC+YOLO格式6999张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJluag==">下载</a></td></tr>
+<tr><td>饮料瓶罐分类玻璃瓶塑料瓶水壶易拉罐检测数据集VOC+YOLO格式2716张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJluaQ==">下载</a></td></tr>
+<tr><td>危险化学品车辆检测数据集VOC+YOLO格式1499张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJluZg==">下载</a></td></tr>
+<tr><td>道路垃圾检测数据集VOC+YOLO格式3438张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpsZA==">下载</a></td></tr>
+<tr><td>城市道路垃圾可回收生物降解垃圾检测数据集VOC+YOLO格式3309张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJlybA==">下载</a></td></tr>
 <tr><td>香菇菌菇蘑菇病害识别分割数据集labelme格式535张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJhsZg==">下载</a></td></tr>
 <tr><td>香菇菌菇蘑菇健康状态蘑菇病害检测数据集VOC+YOLO格式785张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJhrag==">下载</a></td></tr>
 <tr><td>无人机视角道路两旁边坡排水沟堵塞沟渠泥土淤积检测数据集VOC+YOLO格式1488张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUk51vZw==">下载</a></td></tr>
