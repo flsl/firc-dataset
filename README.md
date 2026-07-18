@@ -3,6 +3,23 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>车辆关键点检测数据集COCO+YOLO格式4283张1类别24关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5qaA==">下载</a></td></tr>
+<tr><td>车牌关键点检测数据集COCO+YOLO格式16733张1类别4关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5qZQ==">下载</a></td></tr>
+<tr><td>交通手势指挥关键点姿态估计检测数据集COCO+YOLO格式5709张5类别8关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5qZA==">下载</a></td></tr>
+<tr><td>人体行为动作跌倒摔倒关键点姿态估计检测数据集COCO+YOLO格式7770张6类别18关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5pbQ==">下载</a></td></tr>
+<tr><td>牛关键点姿态估计检测数据集COCO+YOLO格式923张1类别25关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5pZw==">下载</a></td></tr>
+<tr><td>马关键点姿态估计检测数据集COCO+YOLO格式400张1类别16关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ1ybQ==">下载</a></td></tr>
+<tr><td>网球运动动作识别关键点姿态估计检测数据集COCO+YOLO格式4775张4类别18关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ1yag==">下载</a></td></tr>
+<tr><td>考试考场行为关键点姿态估计检测数据集COCO+YOLO格式1738张2类别17关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ1yZQ==">下载</a></td></tr>
+<tr><td>智慧医疗医用采血管分类和标签识别分割数据集labelme格式5469张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ1uZQ==">下载</a></td></tr>
+<tr><td>电力场景户外高压跌落式熔断器跌落开关令克检测数据集VOC+YOLO格式819张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJxubA==">下载</a></td></tr>
+<tr><td>无人机视角低空拍摄的土豆马铃薯幼苗与杂草检测数据集VOC+YOLO格式5266张6类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJxsaA==">下载</a></td></tr>
+<tr><td>电力场景电力输电线上杆塔架空绝缘导线黑皮线灼烧损伤脱皮缺陷检测数据集VOC+YOLO格式264张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJxuZw==">下载</a></td></tr>
+<tr><td>地铁站内人员危险行为关键点姿态估计检测数据集COCO+YOLO格式1005张4类别17关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJxpZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道垃圾水面垃圾检测数据集VOC+YOLO格式1320张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJttaQ==">下载</a></td></tr>
+<tr><td>收费口道闸园区进出口道闸识别分割数据集labelme格式2869张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJtqZg==">下载</a></td></tr>
+<tr><td>无人机视角露天违规堆放煤气罐易燃易爆物品检测数据集VOC+YOLO格式1958张1类别图片合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJtqZA==">下载</a></td></tr>
+<tr><td>车辆视角路面锥形桶交通导流锥路障识别分割数据集labelme格式3417张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJtqaQ==">下载</a></td></tr>
 <tr><td>无人机视角裸土覆盖识别分割数据集labelme格式592张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpwbQ==">下载</a></td></tr>
 <tr><td>道路巡检路面堆沙路障坑洞检测数据集VOC+YOLO格式3009张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpwZg==">下载</a></td></tr>
 <tr><td>建筑工地施工机械人员材料施工要素目标检测数据集VOC+YOLO格式27278张26类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJpubQ==">下载</a></td></tr>
