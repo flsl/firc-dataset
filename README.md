@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式1998张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9rZQ==">下载</a></td></tr>
+<tr><td>电力场景高空作业场景下人员佩戴鞋帽绳检测数据集VOC+YOLO格式566张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaw==">下载</a></td></tr>
+<tr><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式359张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaQ==">下载</a></td></tr>
+<tr><td>电力场景高空作业攀爬作业安全绳安全带检测数据集VOC+YOLO格式578张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9paw==">下载</a></td></tr>
+<tr><td>室内装修工行为姿态作业状态关键点姿态估计检测数据集COCO+YOLO格式5040张2类别16关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5xbA==">下载</a></td></tr>
+<tr><td>击剑运动人员行为动作姿态关键点检测数据集COCO+YOLO格式1706张13类别6关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5xaw==">下载</a></td></tr>
+<tr><td>煤气罐排气孔开关状态检测数据集VOC+YOLO格式1015张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5xag==">下载</a></td></tr>
+<tr><td>无人机视角航拍屋顶房顶缺陷裂缝损伤垃圾杂物检测数据集VOC+YOLO格式3353张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5vbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高清屋顶缺陷瓦片损坏屋顶垃圾长草检测数据集VOC+YOLO格式7975张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5taw==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外图像屋顶缺陷瓦片损坏屋顶垃圾长草检测数据集VOC+YOLO格式4300张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5uZg==">下载</a></td></tr>
 <tr><td>车辆关键点检测数据集COCO+YOLO格式4283张1类别24关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5qaA==">下载</a></td></tr>
 <tr><td>车牌关键点检测数据集COCO+YOLO格式16733张1类别4关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5qZQ==">下载</a></td></tr>
 <tr><td>交通手势指挥关键点姿态估计检测数据集COCO+YOLO格式5709张5类别8关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ5qZA==">下载</a></td></tr>
