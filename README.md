@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景高清图像配电输电线杆塔缺陷检测数据集VOC+YOLO格式4481张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZqZQ==">下载</a></td></tr>
+<tr><td>办公室场景人员站姿坐姿关键点姿态估计检测数据集COCO+YOLO格式1330张4类别8关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZqZA==">下载</a></td></tr>
+<tr><td>不锈钢输送管道缺陷铁管锈蚀腐蚀检测数据集VOC+YOLO格式3344张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZpaQ==">下载</a></td></tr>
+<tr><td>电缆线黑皮导线缺陷可识别斑点划痕孔洞异物检测数据集VOC+YOLO格式975张4类别合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vaw==">下载</a></td></tr>
+<tr><td>电缆缺陷检测数据集VOC+YOLO格式608张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vaA==">下载</a></td></tr>
+<tr><td>架空绝缘电缆缺陷胶皮缆线破损检测数据集VOC+YOLO格式3346张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9vZQ==">下载</a></td></tr>
 <tr><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式1998张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9rZQ==">下载</a></td></tr>
 <tr><td>电力场景高空作业场景下人员佩戴鞋帽绳检测数据集VOC+YOLO格式566张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaw==">下载</a></td></tr>
 <tr><td>电力场景高空作业危险识别安全带佩戴规范检测数据集VOC+YOLO格式359张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlJ9qaQ==">下载</a></td></tr>
