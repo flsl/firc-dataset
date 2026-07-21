@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工地基坑积水检测数据集VOC+YOLO格式300张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZpqZA==">下载</a></td></tr>
+<tr><td>智慧果园桃子成熟度检测数据集VOC+YOLO格式1245张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZppaw==">下载</a></td></tr>
+<tr><td>车型识别车型suv识别车辆计数面包车检测数据集VOC+YOLO格式7282张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZdsbQ==">下载</a></td></tr>
+<tr><td>云室粒子探测分类可识别α粒子β粒子μ子检测数据集VOC+YOLO格式1465张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZhraw==">下载</a></td></tr>
+<tr><td>车型识别车型suv识别车辆计数面包车检测数据集VOC+YOLO格式7282张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZdsbA==">下载</a></td></tr>
+<tr><td>重卡轻卡摩托车等13种车辆检测数据集VOC+YOLO格式5895张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZwZg==">下载</a></td></tr>
+<tr><td>细胞有丝分裂检测数据集VOC+YOLO格式304张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZvZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍垃圾检测数据集VOC+YOLO格式8140张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZsaw==">下载</a></td></tr>
 <tr><td>电力场景高清图像配电输电线杆塔缺陷检测数据集VOC+YOLO格式4481张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZqZQ==">下载</a></td></tr>
 <tr><td>办公室场景人员站姿坐姿关键点姿态估计检测数据集COCO+YOLO格式1330张4类别8关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZqZA==">下载</a></td></tr>
 <tr><td>不锈钢输送管道缺陷铁管锈蚀腐蚀检测数据集VOC+YOLO格式3344张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZZpaQ==">下载</a></td></tr>
