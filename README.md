@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>桥梁桥墩施工质量检测数据集VOC+YOLO格式876张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1taw==">下载</a></td></tr>
+<tr><td>柠檬质检检测数据集VOC+YOLO格式1767张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1saQ==">下载</a></td></tr>
+<tr><td>轮胎缺陷检测数据集VOC+YOLO格式2154张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1sZA==">下载</a></td></tr>
+<tr><td>无人机视角罂粟检测数据集VOC+YOLO格式3648张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1raQ==">下载</a></td></tr>
 <tr><td>工地基坑积水检测数据集VOC+YOLO格式300张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZpqZA==">下载</a></td></tr>
 <tr><td>智慧果园桃子成熟度检测数据集VOC+YOLO格式1245张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZppaw==">下载</a></td></tr>
 <tr><td>车型识别车型suv识别车辆计数面包车检测数据集VOC+YOLO格式7282张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZdsbQ==">下载</a></td></tr>
@@ -2194,7 +2198,6 @@
 <tr><td>[数据集][目标检测]机油泄漏检测数据集VOC+YOLO格式43张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141905377">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]汽油泄漏检测数据集VOC+YOLO格式237张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141903924">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]石油泄漏检测数据集VOC+YOLO格式6633张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141902781">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]轮胎缺陷检测数据集VOC+YOLO格式2154张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141883125">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]轮胎检测数据集VOC+YOLO格式4629张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141881283">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]鲜花检测数据集VOC+YOLO格式25215张106类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141872927">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]街道乱放广告牌检测数据集VOC+YOLO格式114张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141857048">详情</a></td><td><a href="info.md">下载</a></td></tr>
