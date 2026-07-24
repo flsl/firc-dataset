@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>刀具表面磨损严重程度表面损伤检测数据集VOC+YOLO格式1633张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpZtbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍耕地违建占用农田违建房屋建筑检测数据集VOC+YOLO格式2249张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ5wbA==">下载</a></td></tr>
+<tr><td>张贴小广告检测数据集VOC+YOLO格式1725张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1ybA==">下载</a></td></tr>
 <tr><td>桥梁桥墩施工质量检测数据集VOC+YOLO格式876张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1taw==">下载</a></td></tr>
 <tr><td>柠檬质检检测数据集VOC+YOLO格式1767张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1saQ==">下载</a></td></tr>
 <tr><td>轮胎缺陷检测数据集VOC+YOLO格式2154张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1sZA==">下载</a></td></tr>
@@ -2546,7 +2549,6 @@
 <tr><td>[数据集][VOC]挖掘机数据集voc格式4288张介绍</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/127587657">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][VOC]高质量的目标检测数据集合集（持续更新）</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/127564995">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][VOC]消防灭火器数据集voc格式5156张介绍</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/127530161">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][VOC]张贴小广告数据集voc格式1725张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/126294457">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][VOC]老鼠数据集voc格式3001张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/126120231">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][VOC]男女数据集voc格式6188张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/126099064">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>常见30种鱼类分类数据集1917张30类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142736470">详情</a></td><td><a href="info.md">下载</a></td></tr>
