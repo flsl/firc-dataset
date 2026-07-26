@@ -1,8 +1,14 @@
 推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
-数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9<br>
+数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9<br>或者访问<br>数据集表格形式访问：https://i4x0nswelp.feishu.cn/base/ByDybIJebaLJcNsze8kci8SXnyb
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景配网耐张线夹绝缘保护套安装状态检测数据集VOC+YOLO格式2375张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlphvag==">下载</a></td></tr>
+<tr><td>货车过载超载识别检测数据集VOC+YOLO格式3165张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlphvaQ==">下载</a></td></tr>
+<tr><td>纺织工厂服装质检布料缺陷可识别孔洞污渍节疤检测数据集VOC+YOLO格式2006张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpdvZg==">下载</a></td></tr>
+<tr><td>智慧工地安全头盔背心安全帽头盔反光衣检测数据集VOC+YOLO格式1206张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpdubA==">下载</a></td></tr>
+<tr><td>智慧农业水稻稻瘟病霜霉病枯心病检测数据集VOC+YOLO格式948张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpdrag==">下载</a></td></tr>
+<tr><td>存储服务器异常机械硬盘固态硬盘故障检测数据集VOC+YOLO格式4379张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpdtaA==">下载</a></td></tr>
 <tr><td>刀具表面磨损严重程度表面损伤检测数据集VOC+YOLO格式1633张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpZtbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍耕地违建占用农田违建房屋建筑检测数据集VOC+YOLO格式2249张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ5wbA==">下载</a></td></tr>
 <tr><td>张贴小广告检测数据集VOC+YOLO格式1725张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlZ1ybA==">下载</a></td></tr>
