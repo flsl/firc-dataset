@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧校园安防设施检测数据集VOC+YOLO格式7896张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlptwaQ==">下载</a></td></tr>
+<tr><td>高速公路上抛洒物叶片锥桶警示牌车辆水马箭头检测数据集VOC+YOLO格式4846张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlptwZw==">下载</a></td></tr>
+<tr><td>智慧果园葡萄串和葡萄梗识别分割数据集labelme格式2225张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlptwZQ==">下载</a></td></tr>
+<tr><td>电力场景高清图像输电线电缆缺陷检测数据集VOC+YOLO格式150张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlppwZQ==">下载</a></td></tr>
+<tr><td>太阳光下人影检测数据集VOC+YOLO格式490张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlppvaA==">下载</a></td></tr>
+<tr><td>不同类型钢梁管道识别分割数据集labelme格式1710张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlplyZw==">下载</a></td></tr>
+<tr><td>仓储物料检测数据集VOC+YOLO格式5091张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlplxbQ==">下载</a></td></tr>
 <tr><td>电力场景配网耐张线夹绝缘保护套安装状态检测数据集VOC+YOLO格式2375张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlphvag==">下载</a></td></tr>
 <tr><td>货车过载超载识别检测数据集VOC+YOLO格式3165张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlphvaQ==">下载</a></td></tr>
 <tr><td>纺织工厂服装质检布料缺陷可识别孔洞污渍节疤检测数据集VOC+YOLO格式2006张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpdvZg==">下载</a></td></tr>
