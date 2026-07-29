@@ -3,6 +3,26 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人视角河道障碍物阻塞物异物识别数据集labelme格式432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1waA==">下载</a></td></tr>
+<tr><td>无人机视角航拍屋顶杂物检测数据集VOC+YOLO格式12217张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1wZA==">下载</a></td></tr>
+<tr><td>狗部位检测数据集VOC+YOLO格式1410张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1vbA==">下载</a></td></tr>
+<tr><td>养殖场鸡检测数据集VOC+YOLO格式1588张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1uag==">下载</a></td></tr>
+<tr><td>螃蟹种类类型检测数据集VOC+YOLO格式1320张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1uZw==">下载</a></td></tr>
+<tr><td>珊瑚健康状态检测珊瑚白化疾病检测数据集VOC+YOLO格式8007张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1uZQ==">下载</a></td></tr>
+<tr><td>咖啡豆品质检测数据集VOC+YOLO格式1799张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍公路周边杂物堆积物垃圾检测数据集VOC+YOLO格式799张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tZw==">下载</a></td></tr>
+<tr><td>牛部位检测数据集VOC+YOLO格式1400张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍挖掘机检测数据集VOC+YOLO格式1289张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tZQ==">下载</a></td></tr>
+<tr><td>防护服合规检缺陷测数据集VOC+YOLO格式1834张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1tZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路起火火灾检测数据集VOC+YOLO格式144张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路路面抛洒物异物杂物检测数据集VOC+YOLO格式2133张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1saA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路路面积水检测数据集VOC+YOLO格式1074张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路交通事故检测数据集VOC+YOLO格式504张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZA==">下载</a></td></tr>
+<tr><td>工程车辆识别挖掘机推土机洒水车压路机等识别分割数据集labelme格式3823张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlpxsaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍稻田作物倒伏识别分割数据集labelme格式2799张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1wZg==">下载</a></td></tr>
+<tr><td>扶梯黄色标线破损检测数据集VOC+YOLO格式6429张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1vaA==">下载</a></td></tr>
+<tr><td>牛行为检测数据集VOC+YOLO格式4170张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1uZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路两旁堆积物杂物垃圾检测数据集VOC+YOLO格式811张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1sZQ==">下载</a></td></tr>
 <tr><td>智慧校园安防设施检测数据集VOC+YOLO格式7896张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlptwaQ==">下载</a></td></tr>
 <tr><td>高速公路上抛洒物叶片锥桶警示牌车辆水马箭头检测数据集VOC+YOLO格式4846张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlptwZw==">下载</a></td></tr>
 <tr><td>智慧果园葡萄串和葡萄梗识别分割数据集labelme格式2225张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlptwZQ==">下载</a></td></tr>
