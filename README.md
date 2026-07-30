@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通道路路面坍塌塌陷检测数据集VOC+YOLO格式768张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp9pag==">下载</a></td></tr>
+<tr><td>无人机视角边坡滑坡区域检测数据集VOC+YOLO格式968张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5vag==">下载</a></td></tr>
+<tr><td>电力场景螺母缺失电塔锈蚀鸟巢检测数据集VOC+YOLO格式540张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5uaw==">下载</a></td></tr>
+<tr><td>智慧公路周边灾害山体滑坡地质滑坡检测数据集VOC+YOLO格式3120张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5xbA==">下载</a></td></tr>
+<tr><td>草莓尺寸长度个体长短关键点姿态估计检测数据集COCO+YOLO格式1609张1类别2关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5vZA==">下载</a></td></tr>
+<tr><td>3D打印异常检测数据集VOC+YOLO格式6053张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5uag==">下载</a></td></tr>
 <tr><td>无人视角河道障碍物阻塞物异物识别数据集labelme格式432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1waA==">下载</a></td></tr>
 <tr><td>无人机视角航拍屋顶杂物检测数据集VOC+YOLO格式12217张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1wZA==">下载</a></td></tr>
 <tr><td>狗部位检测数据集VOC+YOLO格式1410张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp1vbA==">下载</a></td></tr>
