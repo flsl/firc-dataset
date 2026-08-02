@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍高速公路上行人入侵人员检测数据集VOC+YOLO格式484张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl51rZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路上三轮车检测数据集VOC+YOLO格式976张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl51qbQ==">下载</a></td></tr>
+<tr><td>遥感图像污水处理设施检测数据集VOC+YOLO格式849张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5tpZg==">下载</a></td></tr>
+<tr><td>非机动车闯红灯电动摩托车闯红灯检测数据集VOC+YOLO格式1754张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5hvaw==">下载</a></td></tr>
+<tr><td>电力场景输电线路杆塔植被覆盖滕蔓隐患检测数据集VOC+YOLO格式3992张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5dsZg==">下载</a></td></tr>
+<tr><td>智慧铁路极端天气下轨道异物入侵铁路杂物检测数据集VOC+YOLO格式1017张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5dpZQ==">下载</a></td></tr>
+<tr><td>智慧公路周边灾害山体滑坡地质滑坡检测数据集VOC+YOLO格式3120张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5xaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水区域识别分割数据集labelme格式1617张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5ZxbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍围塘识别分割数据集labelme格式2078张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5ZxaQ==">下载</a></td></tr>
+<tr><td>湿地红树林目标检测数据集VOC+YOLO格式613张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5ZxZg==">下载</a></td></tr>
 <tr><td>智慧交通道路路面坍塌塌陷检测数据集VOC+YOLO格式768张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp9pag==">下载</a></td></tr>
 <tr><td>无人机视角边坡滑坡区域检测数据集VOC+YOLO格式968张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5vag==">下载</a></td></tr>
 <tr><td>电力场景螺母缺失电塔锈蚀鸟巢检测数据集VOC+YOLO格式540张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUlp5uaw==">下载</a></td></tr>
