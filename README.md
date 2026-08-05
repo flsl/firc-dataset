@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>各种鸟类检测数据集VOC+YOLO格式3039张51类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水区域人员救援检测数据集VOC+YOLO格式670张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxZw==">下载</a></td></tr>
+<tr><td>异常行为识别图像分类数据集13965张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJhuaA==">下载</a></td></tr>
+<tr><td>小麦病害检测数据集VOC+YOLO格式1618张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJhraQ==">下载</a></td></tr>
+<tr><td>异常行为检测数据集VOC+YOLO格式848张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJhraA==">下载</a></td></tr>
+<tr><td>太阳检测数据集VOC+YOLO格式652张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJhrZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水区域人员救援检测数据集VOC+YOLO格式1677张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍高速公路上行人入侵人员检测数据集VOC+YOLO格式484张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl51rZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍高速公路上三轮车检测数据集VOC+YOLO格式976张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl51qbQ==">下载</a></td></tr>
 <tr><td>遥感图像污水处理设施检测数据集VOC+YOLO格式849张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUl5tpZg==">下载</a></td></tr>
