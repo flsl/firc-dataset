@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>道路动物横穿马路检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5rbQ==">下载</a></td></tr>
+<tr><td>道路动物横穿马路检测数据集VOC+YOLO格式895张52类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5raw==">下载</a></td></tr>
+<tr><td>暴力行为+打架图像分类数据集含2000个包含暴力或非暴力行为的视频片段mp4格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ1qaQ==">下载</a></td></tr>
+<tr><td>监控视角非机动车违规交通行为检测摩托车自行车违章行为检测数据集VOC+YOLO格式5861张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5qaA==">下载</a></td></tr>
+<tr><td>遥感图像停车区域检测数据集VOC+YOLO格式2239张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJxxbQ==">下载</a></td></tr>
+<tr><td>无人机视角热成像城市街道井盖检测数据集VOC+YOLO格式1021张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJtvbA==">下载</a></td></tr>
+<tr><td>玻璃瓶缺陷可识别裂缝划痕缺口检测数据集VOC+YOLO格式2716张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJppZg==">下载</a></td></tr>
+<tr><td>舌诊舌苔舌头疾病诊断检测数据集VOC+YOLO格式6522张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJtuZQ==">下载</a></td></tr>
 <tr><td>各种鸟类检测数据集VOC+YOLO格式3039张51类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxaA==">下载</a></td></tr>
 <tr><td>无人机视角航拍洪水区域人员救援检测数据集VOC+YOLO格式670张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJlxZw==">下载</a></td></tr>
 <tr><td>异常行为识别图像分类数据集13965张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJhuaA==">下载</a></td></tr>
