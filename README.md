@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍城市街道电动车载人检测数据集VOC+YOLO格式1008张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdxaQ==">下载</a></td></tr>
+<tr><td>网球运动员裁判网球检测数据集VOC+YOLO格式1124张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdwbA==">下载</a></td></tr>
+<tr><td>无人机视角低空铁路轨道缺陷可识别剥落裂缝检测数据集VOC+YOLO格式4599张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdtag==">下载</a></td></tr>
+<tr><td>无人机视角低空航拍桥梁裂缝检测数据集VOC+YOLO格式877张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdsaA==">下载</a></td></tr>
+<tr><td>车辆监控视角道路坑洼坑洞检测数据集VOC+YOLO格式1576张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZZxaQ==">下载</a></td></tr>
+<tr><td>无人机视角遥感图像城市道路坑洞坑洼检测数据集VOC+YOLO格式1641张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZZxaA==">下载</a></td></tr>
+<tr><td>桥梁结构劣化识别检测数据集VOC+YOLO格式4321张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZZuZw==">下载</a></td></tr>
 <tr><td>道路动物横穿马路检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5rbQ==">下载</a></td></tr>
 <tr><td>道路动物横穿马路检测数据集VOC+YOLO格式895张52类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5raw==">下载</a></td></tr>
 <tr><td>暴力行为+打架图像分类数据集含2000个包含暴力或非暴力行为的视频片段mp4格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ1qaQ==">下载</a></td></tr>
