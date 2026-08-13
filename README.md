@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景输电线缆绝缘导线有皮电线缺陷检测数据集VOC+YOLO格式1998张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZxpaA==">下载</a></td></tr>
+<tr><td>电力场景耐张线夹腐蚀与鸟巢检测数据集VOC+YOLO格式267张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyaw==">下载</a></td></tr>
+<tr><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZg==">下载</a></td></tr>
+<tr><td>电力场景输电线杆塔塔头损伤损坏检测数据集VOC+YOLO格式981张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZtxbQ==">下载</a></td></tr>
+<tr><td>无人机视角道路路面裂缝检测数据集VOC+YOLO格式1081张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZlpbQ==">下载</a></td></tr>
+<tr><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍城市街道道路坑洞裂缝检测数据集VOC+YOLO格式1979张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZlyZQ==">下载</a></td></tr>
+<tr><td>遥感图像VEDAI数据集汽车车辆卡车飞机等检测数据集VOC+YOLO格式1245张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZlxbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍城市街道电动车载人检测数据集VOC+YOLO格式1008张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdxaQ==">下载</a></td></tr>
 <tr><td>网球运动员裁判网球检测数据集VOC+YOLO格式1124张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdwbA==">下载</a></td></tr>
 <tr><td>无人机视角低空铁路轨道缺陷可识别剥落裂缝检测数据集VOC+YOLO格式4599张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZdtag==">下载</a></td></tr>
