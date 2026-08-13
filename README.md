@@ -20,7 +20,7 @@
 <tr><td>桥梁结构劣化识别检测数据集VOC+YOLO格式4321张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZZuZw==">下载</a></td></tr>
 <tr><td>道路动物横穿马路检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5rbQ==">下载</a></td></tr>
 <tr><td>道路动物横穿马路检测数据集VOC+YOLO格式895张52类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5raw==">下载</a></td></tr>
-<tr><td>暴力行为+打架图像分类数据集含2000个包含暴力或非暴力行为的视频片段mp4格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ1qaQ==">下载</a></td></tr>
+<tr><td>暴力行为+打架分类数据集含2000个包含暴力或非暴力行为的视频片段mp4格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ1qaQ==">下载</a></td></tr>
 <tr><td>监控视角非机动车违规交通行为检测摩托车自行车违章行为检测数据集VOC+YOLO格式5861张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJ5qaA==">下载</a></td></tr>
 <tr><td>遥感图像停车区域检测数据集VOC+YOLO格式2239张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJxxbQ==">下载</a></td></tr>
 <tr><td>无人机视角热成像城市街道井盖检测数据集VOC+YOLO格式1021张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmJtvbA==">下载</a></td></tr>
