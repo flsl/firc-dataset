@@ -3,6 +3,28 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>近距离道路损伤识别分割数据集labelme格式9080张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9xaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍建筑物损伤缺陷检测数据集VOC+YOLO格式1045张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9uaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍松材线虫病树阶段检测数据集VOC+YOLO格式842张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9tbA==">下载</a></td></tr>
+<tr><td>无人机视角红树林植株胚轴检测数据集VOC+YOLO格式380张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9saQ==">下载</a></td></tr>
+<tr><td>鞋子缺陷运动鞋表面缺陷卸载质检检测数据集VOC+YOLO格式2619张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9sZg==">下载</a></td></tr>
+<tr><td>果树苹果质检检测数据集VOC+YOLO格式4723张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9sZA==">下载</a></td></tr>
+<tr><td>小麦种子质量检测数据集VOC+YOLO格式1296张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9raQ==">下载</a></td></tr>
+<tr><td>铁皮房屋生锈锈蚀严重程度检测数据集VOC+YOLO格式822张5类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9rZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍水葫芦检测数据集VOC+YOLO格式1417张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9qag==">下载</a></td></tr>
+<tr><td>快递运单要素检测数据集VOC+YOLO格式735张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9qaA==">下载</a></td></tr>
+<tr><td>盲道损伤损坏检测数据集VOC+YOLO格式617张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9pbQ==">下载</a></td></tr>
+<tr><td>行人过斑马线违规检测数据集VOC+YOLO格式562张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9pag==">下载</a></td></tr>
+<tr><td>滑雪场滑雪危险动作摔倒检测数据集VOC+YOLO格式712张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ5wbA==">下载</a></td></tr>
+<tr><td>羽毛球技术动作类型检测数据集VOC+YOLO格式954张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ5wZw==">下载</a></td></tr>
+<tr><td>鱼眼监控视角下货车载物类型检测数据集VOC+YOLO格式887张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ5wZg==">下载</a></td></tr>
+<tr><td>羽毛球缺陷检测数据集VOC+YOLO格式1600张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ5wZA==">下载</a></td></tr>
+<tr><td>半导体芯片裸片显微损伤缺陷分割数据集labelme格式4532张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9xZA==">下载</a></td></tr>
+<tr><td>家禽检测数据集VOC+YOLO格式2558张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9taA==">下载</a></td></tr>
+<tr><td>果树苹果质检检测数据集VOC+YOLO格式4723张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ9sZQ==">下载</a></td></tr>
+<tr><td>车辆交通事故严重程度检测数据集VOC+YOLO格式963张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZ1uaA==">下载</a></td></tr>
+<tr><td>电力场景导线输电线脱离绝缘子间隔棒绝缘子缺少均压环检测数据集VOC+YOLO格式707张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZxuZQ==">下载</a></td></tr>
+<tr><td>棉花授粉状态识别检测数据集VOC+YOLO格式1914张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZxtbQ==">下载</a></td></tr>
 <tr><td>电力场景输电线缆绝缘导线有皮电线缺陷检测数据集VOC+YOLO格式1998张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZxpaA==">下载</a></td></tr>
 <tr><td>电力场景耐张线夹腐蚀与鸟巢检测数据集VOC+YOLO格式267张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyaw==">下载</a></td></tr>
 <tr><td>电力场景悬垂线夹倾斜受力偏移检测数据集VOC+YOLO格式1275张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmZtyZg==">下载</a></td></tr>
