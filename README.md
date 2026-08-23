@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景配电变压器围栏类型识别分割数据集labelme格式1382张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwag==">下载</a></td></tr>
+<tr><td>电力场景变电站火灾检测数据集VOC+YOLO格式564张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwZw==">下载</a></td></tr>
+<tr><td>前视声呐FLS水下目标检测数据集VOC+YOLO格式1868张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5dxZA==">下载</a></td></tr>
+<tr><td>红外热成像图像无人机识别检测数据集VOC+YOLO格式10000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5dwaQ==">下载</a></td></tr>
+<tr><td>铁路漏斗车料斗货运车厢底部的卸料口开关状态检测数据集VOC+YOLO格式1522张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwaA==">下载</a></td></tr>
 <tr><td>人员聚集人群拥挤密度检测数据集VOC+YOLO格式163张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5ZuZg==">下载</a></td></tr>
 <tr><td>电线线束组件检测数据集VOC+YOLO格式872张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5Zqaw==">下载</a></td></tr>
 <tr><td>血细胞检测数据集VOC+YOLO格式874张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUmp9yZQ==">下载</a></td></tr>
