@@ -3,6 +3,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>道路异物障碍物识别分割数据集labelme格式1002张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51rZQ==">下载</a></td></tr>
+<tr><td>商贩街摊贩道路占用占道经营检测数据集VOC+YOLO格式1589张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51qbA==">下载</a></td></tr>
+<tr><td>仙人掌品种类型检测数据集VOC+YOLO格式1991张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51qaQ==">下载</a></td></tr>
+<tr><td>消防设施检测数据集VOC+YOLO格式1444张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51qZQ==">下载</a></td></tr>
+<tr><td>街头管理广告垃圾店外经营检测数据集VOC+YOLO格式856张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51pbQ==">下载</a></td></tr>
+<tr><td>智慧物流快递包裹损伤检测数据集VOC+YOLO格式1200张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5xyaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水灾害建筑植被检测数据集VOC+YOLO格式417张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5xxZg==">下载</a></td></tr>
+<tr><td>建筑物表面墙面缺陷裂缝露筋剥落识别分割数据集labelme格式2937张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5trbQ==">下载</a></td></tr>
+<tr><td>防毒面具检测数据集VOC+YOLO格式361张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5puZg==">下载</a></td></tr>
+<tr><td>门把手和门状态检测数据集VOC+YOLO格式6748张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51qaA==">下载</a></td></tr>
+<tr><td>遥感图像各种桥梁检测数据集VOC+YOLO格式2545张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5xxag==">下载</a></td></tr>
 <tr><td>电力场景配电变压器围栏类型识别分割数据集labelme格式1382张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwag==">下载</a></td></tr>
 <tr><td>电力场景变电站火灾检测数据集VOC+YOLO格式564张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5hwZw==">下载</a></td></tr>
 <tr><td>前视声呐FLS水下目标检测数据集VOC+YOLO格式1868张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm5dxZA==">下载</a></td></tr>
