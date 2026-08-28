@@ -3,6 +3,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工业设备金属部件印章检测数据集VOC+YOLO格式547张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptyaQ==">下载</a></td></tr>
+<tr><td>显微图像岩石薄片矿物检测数据集VOC+YOLO格式935张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptyZw==">下载</a></td></tr>
+<tr><td>茄子质检品质质量检测数据集VOC+YOLO格式1983张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptxbQ==">下载</a></td></tr>
+<tr><td>厨房设施插座水龙头微波炉热水器锅炉检测数据集VOC+YOLO格式1782张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptxbA==">下载</a></td></tr>
+<tr><td>工业质检屏幕缺陷检测数据集VOC+YOLO格式616张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptxaw==">下载</a></td></tr>
+<tr><td>工业车间刀具刃口状态锋利顿口检测数据集VOC+YOLO格式1529张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptyag==">下载</a></td></tr>
+<tr><td>无人机视角航拍洪水河面灾害识别洪水识别分割数据集labelme格式857张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm59sZA==">下载</a></td></tr>
+<tr><td>室内生物特征采集左右手掌检测数据集VOC+YOLO格式3739张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm59pZQ==">下载</a></td></tr>
+<tr><td>火龙果成熟度和病害检测数据集VOC+YOLO格式7487张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51vaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍工程车辆检测数据集VOC+YOLO格式3178张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51vag==">下载</a></td></tr>
+<tr><td>遥感图像工程车辆检测数据集VOC+YOLO格式13867张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51vZw==">下载</a></td></tr>
 <tr><td>道路异物障碍物识别分割数据集labelme格式1002张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51rZQ==">下载</a></td></tr>
 <tr><td>商贩街摊贩道路占用占道经营检测数据集VOC+YOLO格式1589张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51qbA==">下载</a></td></tr>
 <tr><td>仙人掌品种类型检测数据集VOC+YOLO格式1991张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaUm51qaQ==">下载</a></td></tr>
