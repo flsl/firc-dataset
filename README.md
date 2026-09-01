@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>监控视角钓鱼人员垂钓检测数据集VOC+YOLO格式322张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkp1yaQ==">下载</a></td></tr>
+<tr><td>室内打电话检测数据集VOC+YOLO格式10254张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5ZwZg==">下载</a></td></tr>
+<tr><td>玩手机打电话检测数据集VOC+YOLO格式12319张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5ZvaA==">下载</a></td></tr>
+<tr><td>服装分类识别检测数据集VOC+YOLO格式2682张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkp9tZA==">下载</a></td></tr>
+<tr><td>移动脚手架安全状态与工人安全防护检测数据集VOC+YOLO格式2919张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkp5xZA==">下载</a></td></tr>
+<tr><td>工业车间湿度计显示屏检测数据集VOC+YOLO格式1691张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkp5sag==">下载</a></td></tr>
+<tr><td>监控视角钓鱼人员垂钓检测数据集VOC+YOLO格式322张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkp1yaQ==">下载</a></td></tr>
+<tr><td>果园树上浆果生长阶段检测数据集VOC+YOLO格式1676张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkpxsZQ==">下载</a></td></tr>
+<tr><td>道路施工沥青摊铺机与双钢轮压路机检测数据集VOC+YOLO格式376张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkpxraw==">下载</a></td></tr>
 <tr><td>工业设备金属部件印章检测数据集VOC+YOLO格式547张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptyaQ==">下载</a></td></tr>
 <tr><td>显微图像岩石薄片矿物检测数据集VOC+YOLO格式935张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptyZw==">下载</a></td></tr>
 <tr><td>茄子质检品质质量检测数据集VOC+YOLO格式1983张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkptxbQ==">下载</a></td></tr>
