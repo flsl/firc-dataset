@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>养牛场要素牛饲料路径识别分割数据集labelme格式829张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lyZg==">下载</a></td></tr>
+<tr><td>菠萝蜜质检变形检测数据集VOC+YOLO格式1008张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lxag==">下载</a></td></tr>
+<tr><td>干果检测数据集VOCC+YOLO格式3772张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lxZQ==">下载</a></td></tr>
+<tr><td>道路防护护栏检测数据集VOC+YOLO格式1352张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lwbA==">下载</a></td></tr>
+<tr><td>长凳长椅检测数据集VOC+YOLO格式1418张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lwaA==">下载</a></td></tr>
+<tr><td>电力场景输电杆塔和输电线路TTPLA图像识别分割数据集labelme格式1240张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5hraw==">下载</a></td></tr>
+<tr><td>菠萝瑕疵病变缺陷检测数据集VOC+YOLO格式1090张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5dxaw==">下载</a></td></tr>
+<tr><td>消防合规消防安全规范检测数据集VOC+YOLO格式2310张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lxZg==">下载</a></td></tr>
 <tr><td>监控视角钓鱼人员垂钓检测数据集VOC+YOLO格式322张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVkp1yaQ==">下载</a></td></tr>
 <tr><td>室内打电话检测数据集VOC+YOLO格式10254张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5ZwZg==">下载</a></td></tr>
 <tr><td>玩手机打电话检测数据集VOC+YOLO格式12319张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5ZvaA==">下载</a></td></tr>
