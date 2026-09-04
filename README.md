@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>零售店铺收银台收银机开关状态检测数据集VOC+YOLO格式1582张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5xpaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道水面塑料垃圾检测数据集VOC+YOLO格式1320张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5twZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道垃圾检测数据集VOC+YOLO格式787张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5tsZw==">下载</a></td></tr>
+<tr><td>河道垃圾检测数据集VOC+YOLO格式1259张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5trbQ==">下载</a></td></tr>
+<tr><td>无人机视角河道塑料垃圾检测数据集VOC+YOLO格式492张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5tqZQ==">下载</a></td></tr>
+<tr><td>无人机视角河道垃圾瓶子树枝易拉罐塑料检测数据集VOC+YOLO格式2247张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ5pZQ==">下载</a></td></tr>
+<tr><td>工业金属表面缺陷检测数据集VOC+YOLO格式1259张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5pwbQ==">下载</a></td></tr>
+<tr><td>装修平面图元素入口床窗厨房客厅卫生间卧室检测数据集VOC+YOLO格式303张8类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5pwZg==">下载</a></td></tr>
 <tr><td>养牛场要素牛饲料路径识别分割数据集labelme格式829张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lyZg==">下载</a></td></tr>
 <tr><td>菠萝蜜质检变形检测数据集VOC+YOLO格式1008张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lxag==">下载</a></td></tr>
 <tr><td>干果检测数据集VOCC+YOLO格式3772张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5lxZQ==">下载</a></td></tr>
