@@ -3,6 +3,21 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧养殖牛疾病检测数据集VOC+YOLO格式544张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJxuag==">下载</a></td></tr>
+<tr><td>智慧养殖牛块状性皮肤病检测数据集VOC+YOLO格式1345张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJxuaQ==">下载</a></td></tr>
+<tr><td>智慧养殖牛皮肤病和足口病图像分类数据集4428张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJxuaA==">下载</a></td></tr>
+<tr><td>大豆叶子病害检测数据集VOC+YOLO格式1121张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJttaw==">下载</a></td></tr>
+<tr><td>瓶盖颜色检测数据集VOC+YOLO格式514张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJtrbA==">下载</a></td></tr>
+<tr><td>钻井井眼安全检测数据集VOC+YOLO格式2907张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJpwaA==">下载</a></td></tr>
+<tr><td>古建筑木结构缺陷检测数据集VOC+YOLO格式863张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJpvag==">下载</a></td></tr>
+<tr><td>桥梁岩壁混凝土漏水检测数据集VOC+YOLO格式200张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJZyZA==">下载</a></td></tr>
+<tr><td>隧道墙面墙壁漏水渗水检测数据集VOC+YOLO格式1989张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJZwag==">下载</a></td></tr>
+<tr><td>67种一级保护动物图像分类数据集7894张67类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk51vZQ==">下载</a></td></tr>
+<tr><td>64类室内场景图像数据集15571张64类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk51ubQ==">下载</a></td></tr>
+<tr><td>骑行者风险检测数据集VOC+YOLO格式1745张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk51qbA==">下载</a></td></tr>
+<tr><td>试卷批改对错圈勾问号检测数据集VOC+YOLO格式1008张6类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk51qZw==">下载</a></td></tr>
+<tr><td>纸板缺陷纸箱表面缺陷检测数据集VOC+YOLO格式1055张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk51qZQ==">下载</a></td></tr>
+<tr><td>自动驾驶场景车辆监控视角行人关注度检测数据集VOC+YOLO格式4904张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk51qaQ==">下载</a></td></tr>
 <tr><td>零售店铺收银台收银机开关状态检测数据集VOC+YOLO格式1582张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5xpaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道水面塑料垃圾检测数据集VOC+YOLO格式1320张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5twZg==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道垃圾检测数据集VOC+YOLO格式787张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVk5tsZw==">下载</a></td></tr>
