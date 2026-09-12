@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>羊疾病诊断检测数据集VOC+YOLO格式1001张6类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5tbA==">下载</a></td></tr>
+<tr><td>智慧养殖羊疾病检测数据集VOC+YOLO格式246张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5taQ==">下载</a></td></tr>
+<tr><td>水生观赏鱼品种类型识别分割数据集labelme格式75390张975类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5taA==">下载</a></td></tr>
+<tr><td>字母手势识别分割数据集labelme格式366张26类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5raw==">下载</a></td></tr>
+<tr><td>苹果果梗枝条识别分割数据集labelme格式712张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5qaw==">下载</a></td></tr>
+<tr><td>工业质检电路板走线诊断电路板缺陷识别分割数据集labelme格式4117张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5paw==">下载</a></td></tr>
+<tr><td>智慧农业水稻叶片叶子病害识别分割数据集labelme格式2263张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5pZg==">下载</a></td></tr>
+<tr><td>胸片诊断肺炎结核积液识别分割数据集labelme格式3751张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5pZQ==">下载</a></td></tr>
+<tr><td>自然灾害之雪崩识别分割数据集labelme格式3351张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5pZA==">下载</a></td></tr>
+<tr><td>树上黄桃果梗分割数据集labelme格式823张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ1yag==">下载</a></td></tr>
 <tr><td>智慧养殖牛疾病检测数据集VOC+YOLO格式544张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJxuag==">下载</a></td></tr>
 <tr><td>智慧养殖牛块状性皮肤病检测数据集VOC+YOLO格式1345张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJxuaQ==">下载</a></td></tr>
 <tr><td>智慧养殖牛皮肤病和足口病图像分类数据集4428张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJxuaA==">下载</a></td></tr>
