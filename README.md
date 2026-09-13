@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>管道漏水积水检测数据集VOC+YOLO格式1306张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xaQ==">下载</a></td></tr>
+<tr><td>菠萝蜜成熟度检测数据集VOC+YOLO格式2355张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xaA==">下载</a></td></tr>
+<tr><td>无人机视角茶叶嫩芽检测数据集VOC+YOLO格式6169张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xZw==">下载</a></td></tr>
+<tr><td>无人机视角河道油污和垃圾检测数据集VOC+YOLO格式310张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5yZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路裂缝缺陷检测数据集VOC+YOLO格式748张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5xbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道周边的菜园子检测数据集VOC+YOLO格式422张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5xZA==">下载</a></td></tr>
+<tr><td>无人机航拍河道污染漂浮物垃圾检测数据集VOC+YOLO格式2436张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5wZw==">下载</a></td></tr>
 <tr><td>羊疾病诊断检测数据集VOC+YOLO格式1001张6类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5tbA==">下载</a></td></tr>
 <tr><td>智慧养殖羊疾病检测数据集VOC+YOLO格式246张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5taQ==">下载</a></td></tr>
 <tr><td>水生观赏鱼品种类型识别分割数据集labelme格式75390张975类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ5taA==">下载</a></td></tr>
