@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角船舶作业场景下人员工作人员检测数据集VOC+YOLO格式1432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZg==">下载</a></td></tr>
+<tr><td>工业车间工人检测数据集VOC+YOLO格式2131张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZA==">下载</a></td></tr>
+<tr><td>交通工具可识别汽车公共汽车自行车摩托车应急车滑板车检测数据集VOC+YOLO格式5877张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZhtbA==">下载</a></td></tr>
+<tr><td>下水管道缺陷可识别错位变形淤积树根障碍物检测数据集VOC+YOLO格式1910张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlqaw==">下载</a></td></tr>
+<tr><td>室内办公环境吊扇缺陷检测数据集VOC+YOLO格式586张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZhqag==">下载</a></td></tr>
+<tr><td>室内攀岩馆攀岩支点检测数据集VOC+YOLO格式1859张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZhpag==">下载</a></td></tr>
+<tr><td>冶金车间大型工业设备检测数据集VOC+YOLO格式2759张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZhqbA==">下载</a></td></tr>
+<tr><td>篮球运动投篮检测篮球要素检测数据集VOC+YOLO格式3832张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZdxaQ==">下载</a></td></tr>
+<tr><td>桥梁钢结构检测数据集VOC+YOLO格式750张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9ybA==">下载</a></td></tr>
+<tr><td>可可果病害检测数据集VOC+YOLO格式312张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9yag==">下载</a></td></tr>
 <tr><td>管道漏水积水检测数据集VOC+YOLO格式1306张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xaQ==">下载</a></td></tr>
 <tr><td>菠萝蜜成熟度检测数据集VOC+YOLO格式2355张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xaA==">下载</a></td></tr>
 <tr><td>无人机视角茶叶嫩芽检测数据集VOC+YOLO格式6169张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlJ9xZw==">下载</a></td></tr>
