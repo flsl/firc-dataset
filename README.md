@@ -3,6 +3,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗CT图像心肺疾病诊断检测数据集VOC+YOLO格式902张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ9vZw==">下载</a></td></tr>
+<tr><td>智慧医疗CT图像心脏肥大检测数据集VOC+YOLO格式427张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ9vZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍建筑物立面缺陷房屋质量检测数据集VOC+YOLO格式1304张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5waw==">下载</a></td></tr>
+<tr><td>智慧医疗心脏肥大图像分类数据集500张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5wZw==">下载</a></td></tr>
+<tr><td>无人机视角智慧城市管理治理人员车辆井盖广告违规停车检测数据集VOC+YOLO格式540张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5vZA==">下载</a></td></tr>
+<tr><td>食品包装生产日期保质期检测数据集VOC+YOLO格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZxxbA==">下载</a></td></tr>
+<tr><td>城市街道滑板车检测数据集VOC+YOLO格式2055张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZxtbQ==">下载</a></td></tr>
+<tr><td>智慧铁路轨道要素轨道信号标志识别分割数据集labelme格式5092张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZ5vag==">下载</a></td></tr>
+<tr><td>电力场景红外可见光图像配电站电力设施要素隔离开关避雷器检测数据集VOC+YOLO格式2688张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZtqaQ==">下载</a></td></tr>
+<tr><td>豆类种子质检好坏分类检测数据集VOC+YOLO格式633张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZpvaw==">下载</a></td></tr>
+
 <tr><td>无人机视角船舶作业场景下人员工作人员检测数据集VOC+YOLO格式1432张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZg==">下载</a></td></tr>
 <tr><td>工业车间工人检测数据集VOC+YOLO格式2131张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZlrZA==">下载</a></td></tr>
 <tr><td>交通工具可识别汽车公共汽车自行车摩托车应急车滑板车检测数据集VOC+YOLO格式5877张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlZhtbA==">下载</a></td></tr>
