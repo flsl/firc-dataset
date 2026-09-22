@@ -3,6 +3,20 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>铁轨及周边障碍物识别分割数据集labelme格式1207张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1qaA==">下载</a></td></tr>
+<tr><td>道路道闸升降和危险区域识别分割数据集labelme格式498张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1qZQ==">下载</a></td></tr>
+<tr><td>铁路路旁道闸开关状态检测数据集VOC+YOLO格式279张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1paw==">下载</a></td></tr>
+<tr><td>舌头区域位置对应身体器官部位检测数据集VOC+YOLO格式600张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1paQ==">下载</a></td></tr>
+<tr><td>乡村道路缺陷路面损坏检测数据集VOC+YOLO格式711张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1paA==">下载</a></td></tr>
+<tr><td>监控视角下电动车摩托车头盔佩戴规范检测数据集VOC+YOLO格式2209张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1pZg==">下载</a></td></tr>
+<tr><td>红外人体动作检测数据集VOC+YOLO格式1032张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1pZQ==">下载</a></td></tr>
+<tr><td>远红外野外动物检测数据集VOC+YOLO格式5524张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlpxyZg==">下载</a></td></tr>
+<tr><td>茄子损伤腐烂检测数据集VOC+YOLO格式6444张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlpxxaQ==">下载</a></td></tr>
+<tr><td>牙齿位置牙齿种类类型检测数据集VOC+YOLO格式724张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlpxxaA==">下载</a></td></tr>
+<tr><td>电池种类类型检测数据集VOC+YOLO格式5160张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlpxxZw==">下载</a></td></tr>
+<tr><td>城市路边路沿石检测数据集VOC+YOLO格式466张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlpxxZQ==">下载</a></td></tr>
+<tr><td>房屋平面设计图门窗墙识别检测数据集VOC+YOLO格式5015张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlppsZg==">下载</a></td></tr>
+<tr><td>建筑物缺陷剥落裂缝污渍识别图像分类数据集7860张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlptqaw==">下载</a></td></tr>
 <tr><td>电动车正背面检测数据集VOC+YOLO格式2203张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlppqbQ==">下载</a></td></tr>
 <tr><td>街头男女检测数据集VOC+YOLO格式1000张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlppqaw==">下载</a></td></tr>
 <tr><td>水母种类类型检测数据集VOC+YOLO格式899张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlppqaQ==">下载</a></td></tr>
