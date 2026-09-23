@@ -3,6 +3,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>城市街道夜晚路灯损坏是否点亮检测数据集VOC+YOLO格式5549张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9ybQ==">下载</a></td></tr>
+<tr><td>红外图像管道泄漏检测数据集VOC+YOLO格式505张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9xaQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外可见光图像屋顶污垢垃圾多余瓦片检测数据集VOC+YOLO格式3535张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9sZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外可见光图像屋顶生物膜与植被检测数据集VOC+YOLO格式4394张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9rag==">下载</a></td></tr>
+<tr><td>无人机视角低空拍摄海洋水面垃圾检测数据集VOC+YOLO格式9627张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9qaA==">下载</a></td></tr>
+<tr><td>电力场景杆塔高处作业人员安全绳安全带佩戴规范检测数据集VOC+YOLO格式100张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9qZQ==">下载</a></td></tr>
+<tr><td>无人机视角道路路面异常检测数据集VOC+YOLO格式437张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9pbA==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外热成像河岸钓鱼人检测数据集VOC+YOLO格式76张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9pag==">下载</a></td></tr>
+<tr><td>无人机视角城市道路井盖类型矩形井盖圆形井盖识别分割数据集labelme格式2514张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp5ybQ==">下载</a></td></tr>
+<tr><td>无人机视角红外可见光图像钓鱼人伞检测数据集VOC+YOLO格式82张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp5ybA==">下载</a></td></tr>
+<tr><td>无人机视角墙体外立面热红外图像空鼓裂缝脱落检测数据集VOC+YOLO格式441张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp5yaw==">下载</a></td></tr>
 <tr><td>铁轨及周边障碍物识别分割数据集labelme格式1207张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1qaA==">下载</a></td></tr>
 <tr><td>道路道闸升降和危险区域识别分割数据集labelme格式498张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1qZQ==">下载</a></td></tr>
 <tr><td>铁路路旁道闸开关状态检测数据集VOC+YOLO格式279张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp1paw==">下载</a></td></tr>
