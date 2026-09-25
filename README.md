@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>城市治理占道经营晾晒杂物垃圾违停检测数据集VOC+YOLO格式441张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lqZg==">下载</a></td></tr>
+<tr><td>电动汽车直流快充接口检测数据集VOC+YOLO格式799张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lqZA==">下载</a></td></tr>
+<tr><td>智慧交通道路及周边滑坡落石检测数据集VOC+YOLO格式1964张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lpbQ==">下载</a></td></tr>
+<tr><td>道路行驶油罐车危化品运输车辆检测数据集VOC+YOLO格式3320张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lpbA==">下载</a></td></tr>
+<tr><td>钢珠计数检测数据集VOC+YOLO格式749张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lpag==">下载</a></td></tr>
+<tr><td>无人机视角航拍车辆违停检测数据集VOC+YOLO格式3263张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lqZQ==">下载</a></td></tr>
+<tr><td>交通标志缺陷可识别损坏涂鸦锈蚀裂缝检测数据集VOC+YOLO格式606张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5huZA==">下载</a></td></tr>
+<tr><td>交通标志损坏缺陷检测数据集VOC+YOLO格式260张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5htbA==">下载</a></td></tr>
+<tr><td>交通标志损坏褪色锈蚀识别图像分类数据集1146张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5htaQ==">下载</a></td></tr>
+<tr><td>葡萄园行间识别分割数据集labelme格式500张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5dtaQ==">下载</a></td></tr>
+<tr><td>智慧交通警示锥杆检测数据集VOC+YOLO格式138张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5dsZw==">下载</a></td></tr>
+<tr><td>智慧医疗OCT图像视网膜内囊肿液检测数据集VOC+YOLO格式1460张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5ZxbA==">下载</a></td></tr>
 <tr><td>城市街道夜晚路灯损坏是否点亮检测数据集VOC+YOLO格式5549张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9ybQ==">下载</a></td></tr>
 <tr><td>红外图像管道泄漏检测数据集VOC+YOLO格式505张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9xaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍红外可见光图像屋顶污垢垃圾多余瓦片检测数据集VOC+YOLO格式3535张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVlp9sZw==">下载</a></td></tr>
