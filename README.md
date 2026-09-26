@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景变电站部件缺陷检测数据集VOC+YOLO格式8046张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5pxaQ==">下载</a></td></tr>
+<tr><td>无人机视角道路滑坡检测数据集VOC+YOLO格式1892张1类别合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5pubQ==">下载</a></td></tr>
+<tr><td>无人机视角铁路轨道异物人员检测数据集VOC+YOLO格式1919张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5puaQ==">下载</a></td></tr>
+<tr><td>电表连接导线识别分割数据集labelme格式1331张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lxbQ==">下载</a></td></tr>
+<tr><td>黑皮线缆烧伤外露核心线检测数据集VOC+YOLO格式498张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lxbA==">下载</a></td></tr>
+<tr><td>智能手机侧边缺陷检测数据集VOC+YOLO格式288张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lxaw==">下载</a></td></tr>
+<tr><td>公路隧道漏水识别分割数据集labelme格式27张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lrag==">下载</a></td></tr>
 <tr><td>城市治理占道经营晾晒杂物垃圾违停检测数据集VOC+YOLO格式441张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lqZg==">下载</a></td></tr>
 <tr><td>电动汽车直流快充接口检测数据集VOC+YOLO格式799张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lqZA==">下载</a></td></tr>
 <tr><td>智慧交通道路及周边滑坡落石检测数据集VOC+YOLO格式1964张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5lpbQ==">下载</a></td></tr>
