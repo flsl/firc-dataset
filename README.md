@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>木材缺陷检测数据集VOC+YOLO格式5589张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZvZQ==">下载</a></td></tr>
+<tr><td>烟草叶病害多类别检测数据集VOC+YOLO格式2035张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZqZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍烟叶病害检测数据集VOC+YOLO格式1071张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZtZg==">下载</a></td></tr>
+<tr><td>轨道紧固件缺陷检测数据集VOC+YOLO格式611张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl59raQ==">下载</a></td></tr>
+<tr><td>婴儿监护婴儿状态检测数据集VOC+YOLO格式408张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5tvZQ==">下载</a></td></tr>
+<tr><td>婴儿监护鼻子头部检测数据集VOC+YOLO格式1022张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5tubA==">下载</a></td></tr>
+<tr><td>监控视角地铁场景下的人员检测数据集VOC+YOLO格式2189张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5tuaw==">下载</a></td></tr>
+<tr><td>飞机起落架检测数据集VOC+YOLO格式1144张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5tqaA==">下载</a></td></tr>
 <tr><td>电力场景变电站部件缺陷检测数据集VOC+YOLO格式8046张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5pxaQ==">下载</a></td></tr>
 <tr><td>无人机视角道路滑坡检测数据集VOC+YOLO格式1892张1类别合成版</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5pubQ==">下载</a></td></tr>
 <tr><td>无人机视角铁路轨道异物人员检测数据集VOC+YOLO格式1919张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVl5puaQ==">下载</a></td></tr>
