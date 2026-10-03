@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>游戏场景矿石目标检测数据集VOC+YOLO格式308张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxpZg==">下载</a></td></tr>
+<tr><td>车内饰品缺陷车内部件表面缺陷检测数据集VOC+YOLO格式1491张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxbQ==">下载</a></td></tr>
+<tr><td>无人机视角海边沙滩垃圾检测数据集VOC+YOLO格式603张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxaQ==">下载</a></td></tr>
+<tr><td>工厂安全操作规范检测数据集VOC+YOLO格式3774张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtwZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍农田植株健康养分缺失和杂草丛检测数据集VOC+YOLO格式3280张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtwZA==">下载</a></td></tr>
+<tr><td>金属门窗外观表面缺陷检测数据集VOC+YOLO格式3998张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtvbA==">下载</a></td></tr>
+<tr><td>无人机视角河道及周边垃圾检测数据集VOC+YOLO格式907张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtyZQ==">下载</a></td></tr>
+<tr><td>工厂安全操作规范检测数据集VOC+YOLO格式3774张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtwaA==">下载</a></td></tr>
 <tr><td>木材缺陷检测数据集VOC+YOLO格式5589张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZvZQ==">下载</a></td></tr>
 <tr><td>烟草叶病害多类别检测数据集VOC+YOLO格式2035张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZqZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍烟叶病害检测数据集VOC+YOLO格式1071张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJZtZg==">下载</a></td></tr>
