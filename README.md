@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工业镀金钨铜合金散热器表面缺陷识别污渍划痕分割数据集labelme格式1000张2类别低分辨率</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1sZw==">下载</a></td></tr>
+<tr><td>学校餐盘食物检测数据集VOC+YOLO格式3751张21类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1sZA==">下载</a></td></tr>
+<tr><td>智慧物流传送带上包裹分拣机包裹识别分割数据集labelme格式1014张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1rZA==">下载</a></td></tr>
+<tr><td>智慧医疗皮肤痣检测数据集VOC+YOLO格式3204张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1qaA==">下载</a></td></tr>
+<tr><td>地下矿井背包灭火器假人检测数据集VOC+YOLO格式2471张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1qZw==">下载</a></td></tr>
+<tr><td>超声波图像胎儿检测数据集VOC+YOLO格式998张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1qZQ==">下载</a></td></tr>
+<tr><td>工业点蚀分割机床表面缺陷识别分割数据集labelme格式394张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxyaw==">下载</a></td></tr>
+<tr><td>大风倒树道路障碍物倒树检测数据集VOC+YOLO格式330张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxxbQ==">下载</a></td></tr>
+<tr><td>阿拉伯手语32手势检测数据集VOC+YOLO格式14183张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxxaw==">下载</a></td></tr>
+<tr><td>山林烟雾浓度分级检测数据集VOC+YOLO格式2836张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1raA==">下载</a></td></tr>
+<tr><td>智慧医疗X光图像小儿手腕外伤检测数据集VOC+YOLO格式2538张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1pbQ==">下载</a></td></tr>
+<tr><td>水表读数区域检测数据集VOC+YOLO格式1244张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxyZQ==">下载</a></td></tr>
 <tr><td>游戏场景矿石目标检测数据集VOC+YOLO格式308张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJxpZg==">下载</a></td></tr>
 <tr><td>车内饰品缺陷车内部件表面缺陷检测数据集VOC+YOLO格式1491张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxbQ==">下载</a></td></tr>
 <tr><td>无人机视角海边沙滩垃圾检测数据集VOC+YOLO格式603张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJtxaQ==">下载</a></td></tr>
