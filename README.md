@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>海上水面目标检测数据集VOC+YOLO格式12316张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZlwaQ==">下载</a></td></tr>
+<tr><td>外来入侵植物检测数据集VOC+YOLO格式1111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZpsaw==">下载</a></td></tr>
+<tr><td>街头小广告检测数据集VOC+YOLO格式1315张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZpqbQ==">下载</a></td></tr>
+<tr><td>无人机视角露天采矿作业和岩面的航空图像地质表面裂缝检测数据集VOC+YOLO格式407张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZZpaw==">下载</a></td></tr>
+<tr><td>明厨亮灶厨房食品卫生与安全检测数据集VOC+YOLO格式19121张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5yaw==">下载</a></td></tr>
+<tr><td>工业螺栓检测数据集VOC+YOLO格式337张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5yaA==">下载</a></td></tr>
+<tr><td>无人机视角电力场景下T电线杆塔检测数据集VOC+YOLO格式13790张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5uag==">下载</a></td></tr>
+<tr><td>无人机视角机场跑道异物检测数据集VOC+YOLO格式10000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5tZQ==">下载</a></td></tr>
+<tr><td>手掌纹检测数据集VOC+YOLO格式2011张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ5sZg==">下载</a></td></tr>
 <tr><td>工业镀金钨铜合金散热器表面缺陷识别污渍划痕分割数据集labelme格式1000张2类别低分辨率</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1sZw==">下载</a></td></tr>
 <tr><td>学校餐盘食物检测数据集VOC+YOLO格式3751张21类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1sZA==">下载</a></td></tr>
 <tr><td>智慧物流传送带上包裹分拣机包裹识别分割数据集labelme格式1014张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmJ1rZA==">下载</a></td></tr>
