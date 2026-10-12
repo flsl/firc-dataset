@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>城市盲道及障碍物检测数据集VOC+YOLO格式9705张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ5qbQ==">下载</a></td></tr>
+<tr><td>稻米谷物稻谷种子缺陷识别分割数据集labelme格式205张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ1raw==">下载</a></td></tr>
+<tr><td>城市道路叶子叶堆检测数据集VOC+YOLO格式351张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZxqag==">下载</a></td></tr>
+<tr><td>夜晚场景下道路上红绿灯检测数据集VOC+YOLO格式20317张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZtpZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍松材线虫病树检测数据集VOC+YOLO格式1112张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZpybQ==">下载</a></td></tr>
+<tr><td>车辆车身缺陷可识别车门车窗破损检测数据集VOC+YOLO格式3332张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ1vbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍古建筑屋顶缺陷损毁识别分割数据集labelme格式605张7类别</td><td><a href="https://mbd.pub/o/bread/YZaVmZxwbQ==">下载</a></td></tr>
 <tr><td>海上水面目标检测数据集VOC+YOLO格式12316张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZlwaQ==">下载</a></td></tr>
 <tr><td>外来入侵植物检测数据集VOC+YOLO格式1111张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZpsaw==">下载</a></td></tr>
 <tr><td>街头小广告检测数据集VOC+YOLO格式1315张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZpqbQ==">下载</a></td></tr>
