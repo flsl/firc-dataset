@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角农田飞鸟检测数据集VOC+YOLO格式101张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpduag==">下载</a></td></tr>
+<tr><td>钻井钻探作业可识别钻机钻杆矿工电缆架识别数据集分割数据集labelme格式480张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpdqZw==">下载</a></td></tr>
+<tr><td>红外图像光伏组件缺陷检测数据集VOC+YOLO格式1773张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpdpaw==">下载</a></td></tr>
+<tr><td>电力场景变电站缺陷可识别渗漏油异物金属腐蚀呼吸器变色检测数据集VOC+YOLO格式1171张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpZxaA==">下载</a></td></tr>
+<tr><td>智慧农业农田田间道路识别分割数据集labelme格式401张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpZrbA==">下载</a></td></tr>
+<tr><td>矿山场景下目标可识别矿工矿车红绿灯大煤块标志检测数据集VOC+YOLO格式2429张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ9tZw==">下载</a></td></tr>
+<tr><td>甲状腺超声波图像疾病结节检测数据集VOC+YOLO格式8602张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ5vag==">下载</a></td></tr>
 <tr><td>城市盲道及障碍物检测数据集VOC+YOLO格式9705张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ5qbQ==">下载</a></td></tr>
 <tr><td>稻米谷物稻谷种子缺陷识别分割数据集labelme格式205张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZ1raw==">下载</a></td></tr>
 <tr><td>城市道路叶子叶堆检测数据集VOC+YOLO格式351张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmZxqag==">下载</a></td></tr>
