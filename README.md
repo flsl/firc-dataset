@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>三角洲行动可识别敌方同伴检测数据集VOC+YOLO格式11796张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5ZpZw==">下载</a></td></tr>
+<tr><td>三角洲行动可识别人头检测数据集VOC+YOLO格式11131张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmp9xaA==">下载</a></td></tr>
+<tr><td>光伏板阵列缺陷红外检测数据集VOC+YOLO格式4093张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmp9tbA==">下载</a></td></tr>
+<tr><td>无人机关键点检测姿态估计数据集COCO+YOLO格式2246张1类别4关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmp1vZg==">下载</a></td></tr>
+<tr><td>反无人机红外图像关键点检测姿态估计数据集COCO+YOLO格式272张1类别5关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmp1uZw==">下载</a></td></tr>
+<tr><td>古建筑缺陷检测数据集VOC+YOLO格式4018张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmp1tbA==">下载</a></td></tr>
+<tr><td>智慧医疗针头与注射器识别分割数据集labelme格式1124张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmp1rZg==">下载</a></td></tr>
+<tr><td>工业设备管道缺陷可识别腐蚀损坏变形泄漏松动检测数据集VOC+YOLO格式1103张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpltZQ==">下载</a></td></tr>
 <tr><td>无人机视角农田飞鸟检测数据集VOC+YOLO格式101张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpduag==">下载</a></td></tr>
 <tr><td>钻井钻探作业可识别钻机钻杆矿工电缆架识别数据集分割数据集labelme格式480张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpdqZw==">下载</a></td></tr>
 <tr><td>红外图像光伏组件缺陷检测数据集VOC+YOLO格式1773张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVmpdpaw==">下载</a></td></tr>
