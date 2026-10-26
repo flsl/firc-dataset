@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗视网膜OCT图像光学相干断层扫描眼病图像分类数据集9614张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkpxsZQ==">下载</a></td></tr>
+<tr><td>青光眼眼底图像分类数据集3686张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkpxrbQ==">下载</a></td></tr>
+<tr><td>无人机视角外墙空调外机支架锈蚀及附近墙面裂缝剥落检测数据集VOC+YOLO格式803张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkptraA==">下载</a></td></tr>
+<tr><td>陷阱相机昆虫数据集检测数据集VOC+YOLO格式2629张722类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkptrZQ==">下载</a></td></tr>
+<tr><td>智慧养殖死鸡识别分割数据集labelme格式1396张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkplwbA==">下载</a></td></tr>
+<tr><td>树叶和叶子堆检测数据集VOC+YOLO格式389张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkplwaQ==">下载</a></td></tr>
+<tr><td>智慧矿业传送带上大煤块和异物检测数据集VOC+YOLO格式2145张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkphvZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍高速公路抛洒物异物动物检测数据集VOC+YOLO格式332张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkpZuZA==">下载</a></td></tr>
+<tr><td>水质污染识别分割数据集labelme格式688张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm59tZw==">下载</a></td></tr>
 <tr><td>电力场景输电线路巡检异常缺陷检测数据集VOC+YOLO格式678张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5xwZg==">下载</a></td></tr>
 <tr><td>电力场景输电线路故障异常检测数据集VOC+YOLO格式1022张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5xuaQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍农业生产大棚地膜识别分割数据集labelme格式11442张5类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaVm5xpag==">下载</a></td></tr>
