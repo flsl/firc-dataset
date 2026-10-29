@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工业玻璃不同形状类别玻璃检测数据集VOC+YOLO格式1012张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5dwaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍夜晚城市街道车辆检测数据集VOC+YOLO格式4714张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5dvaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍道路路面坑洞检测数据集VOC+YOLO格式1038张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5drbQ==">下载</a></td></tr>
+<tr><td>无人机视角铁轨枕木检测数据集VOC+YOLO格式1297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5htZQ==">下载</a></td></tr>
+<tr><td>冒险岛游戏中怪物与玩家检测数据集VOC+YOLO格式6128张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5ZsZQ==">下载</a></td></tr>
+<tr><td>冒险岛游戏中怪物与绳梯检测数据集VOC+YOLO格式1577张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5Zraw==">下载</a></td></tr>
+<tr><td>无人机视角建筑物立面外墙裂缝墙面剥落检测数据集VOC+YOLO格式448张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5Zrag==">下载</a></td></tr>
+<tr><td>电力场景变电站及作业现场电气设备与人员安全防护检测数据集VOC+YOLO格式2817张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkp9qZA==">下载</a></td></tr>
 <tr><td>智慧医疗视网膜OCT图像光学相干断层扫描眼病图像分类数据集9614张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkpxsZQ==">下载</a></td></tr>
 <tr><td>青光眼眼底图像分类数据集3686张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkpxrbQ==">下载</a></td></tr>
 <tr><td>无人机视角外墙空调外机支架锈蚀及附近墙面裂缝剥落检测数据集VOC+YOLO格式803张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWkptraA==">下载</a></td></tr>
