@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
+<tr><td>道路旁树木和电线杆检测数据集VOC+YOLO格式2243张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55paA==">下载</a></td></tr>
+<tr><td>山区道路边坡落石隐患检测数据集VOC+YOLO格式241张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51yZQ==">下载</a></td></tr>
+<tr><td>智慧铁路沿线隧道周边塌方隐患检测数据集VOC+YOLO格式7397张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51yZA==">下载</a></td></tr>
+<tr><td>芒果果实病害图像分类数据集862张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51ubA==">下载</a></td></tr>
+<tr><td>红外图像狗与人检测数据集VOC+YOLO格式969张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5xuag==">下载</a></td></tr>
+<tr><td>烟草叶片健康与病害检测数据集VOC+YOLO格式5105张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5tuZw==">下载</a></td></tr>
+<tr><td>风力发电机风机叶片缺陷检测数据集VOC+YOLO格式7301张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5tsaw==">下载</a></td></tr>
 <tr><td>工业玻璃不同形状类别玻璃检测数据集VOC+YOLO格式1012张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5dwaw==">下载</a></td></tr>
 <tr><td>无人机视角航拍夜晚城市街道车辆检测数据集VOC+YOLO格式4714张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5dvaw==">下载</a></td></tr>
 <tr><td>无人机视角航拍道路路面坑洞检测数据集VOC+YOLO格式1038张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk5drbQ==">下载</a></td></tr>
