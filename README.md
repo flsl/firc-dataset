@@ -3,7 +3,20 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
-<tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
+<tr><td>实验室场景下安全防护检测数据集VOC+YOLO格式7401张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZqZg==">下载</a></td></tr>
+<tr><td>大规模工地施工工人安全穿戴检测数据集VOC+YOLO格式16697张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZpZg==">下载</a></td></tr>
+<tr><td>秋葵成熟度检测数据集VOC+YOLO格式508张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59vaA==">下载</a></td></tr>
+<tr><td>秋葵虫害检测数据集VOC+YOLO格式1676张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59vZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍蚊子滋生地蚊虫潜在器具检测数据集VOC+YOLO格式936张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59uaw==">下载</a></td></tr>
+<tr><td>夜晚监控场景下老鼠检测数据集VOC+YOLO格式3961张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59uaQ==">下载</a></td></tr>
+<tr><td>婴儿儿童照护监护检测数据集VOC+YOLO格式2110张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59uZg==">下载</a></td></tr>
+<tr><td>花生果实等级分类花生粒质检检测数据集VOC+YOLO格式1763张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59rZA==">下载</a></td></tr>
+<tr><td>高速监控视角下油罐车检测数据集VOC+YOLO格式519张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55yZA==">下载</a></td></tr>
+<tr><td>智慧工地工人安全穿戴规范检测数据集VOC+YOLO格式1677张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZqaw==">下载</a></td></tr>
+<tr><td>铁路异物入侵铁路输电线障碍物检测数据集VOC+YOLO格式2297张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59ybQ==">下载</a></td></tr>
+<tr><td>高空作业护栏安全检测数据集VOC+YOLO格式2550张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59vZQ==">下载</a></td></tr>
+<tr><td>养殖场猪行为检测数据集VOC+YOLO格式3550张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59uaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式373张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
 <tr><td>道路旁树木和电线杆检测数据集VOC+YOLO格式2243张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55paA==">下载</a></td></tr>
 <tr><td>山区道路边坡落石隐患检测数据集VOC+YOLO格式241张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51yZQ==">下载</a></td></tr>
 <tr><td>智慧铁路沿线隧道周边塌方隐患检测数据集VOC+YOLO格式7397张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk51yZA==">下载</a></td></tr>
