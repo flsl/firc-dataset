@@ -3,6 +3,27 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>玉米粒质检玉米种子好坏检测数据集VOC+YOLO格式1341张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZlwag==">下载</a></td></tr>
+<tr><td>智慧铁路鱼眼全景监控视角工人与车厢连接件检测数据集VOC+YOLO格式15417张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZlvbQ==">下载</a></td></tr>
+<tr><td>智慧铁路工人检测数据集VOC+YOLO格式2515张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZluZw==">下载</a></td></tr>
+<tr><td>智慧铁路铁轨与人员识别分割数据集labelme格式3173张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZhybA==">下载</a></td></tr>
+<tr><td>工业生产车间人员未戴安全帽和未穿防护服反光衣检测数据集VOC+YOLO格式1643张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZhwag==">下载</a></td></tr>
+<tr><td>高空作业栏杆检测数据集VOC+YOLO格式230张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZhvbA==">下载</a></td></tr>
+<tr><td>环保水体污染水面污染物检测数据集VOC+YOLO格式1565张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZhvaA==">下载</a></td></tr>
+<tr><td>工业质检婴儿湿巾包装盖子缺陷检测数据集VOC+YOLO格式328张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZhpZw==">下载</a></td></tr>
+<tr><td>工业流水线上玻璃瓶内异物检测数据集VOC+YOLO格式915张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ9vZQ==">下载</a></td></tr>
+<tr><td>无人机视角建筑物楼房外立面缺陷剥落裂缝检测数据集VOC+YOLO格式1263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ9vZA==">下载</a></td></tr>
+<tr><td>金属部件器具构件腐蚀剥落损坏识别分割数据集labelme格式1043张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ5paw==">下载</a></td></tr>
+<tr><td>无人机视角航拍林业树种红松白桦杨树核桃楸水曲柳落叶松松树其他树种检测数据集VOC+YOLO格式612张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ1yZA==">下载</a></td></tr>
+<tr><td>无人机视角建筑外立面墙缺陷可识别裂缝脱落鼓包检测数据集VOC+YOLO格式1280张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJ1xZA==">下载</a></td></tr>
+<tr><td>登革热滋生地器具病媒传播介质检测数据集VOC+YOLO格式381张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJttbQ==">下载</a></td></tr>
+<tr><td>蚊虫幼虫群及滋生地识别病媒生物检测数据集VOC+YOLO格式2868张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJttZA==">下载</a></td></tr>
+<tr><td>入侵植物之加拿大一枝黄花检测数据集VOC+YOLO格式204张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZwbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍场景识别地形识别场景感知分割数据集labelme格式1587张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJpuZw==">下载</a></td></tr>
+<tr><td>智慧铁路铁轨火灾检测数据集VOC+YOLO格式1936张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZwbA==">下载</a></td></tr>
+<tr><td>无人机视角遥感航拍树木识别城市绿化覆盖分割数据集labelme格式2427张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJdybA==">下载</a></td></tr>
+<tr><td>入侵植物之加拿大一枝黄花检测数据集VOC+YOLO格式204张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZwbQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍滑坡与建筑物损坏识别分割数据集labelme格式373张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk55sbA==">下载</a></td></tr>
 <tr><td>实验室场景下安全防护检测数据集VOC+YOLO格式7401张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZqZg==">下载</a></td></tr>
 <tr><td>大规模工地施工工人安全穿戴检测数据集VOC+YOLO格式16697张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlJZpZg==">下载</a></td></tr>
 <tr><td>秋葵成熟度检测数据集VOC+YOLO格式508张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWk59vaA==">下载</a></td></tr>
