@@ -3,6 +3,38 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍应急车道与普通车道识别分割数据集labelme格式1485张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptrbA==">下载</a></td></tr>
+<tr><td>室内安全防护服与人员姿态人体行为检测数据集VOC+YOLO格式4567张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptrZg==">下载</a></td></tr>
+<tr><td>监控视角下电梯门开关状态检测数据集VOC+YOLO格式430张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptqZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍红外图像光伏板损伤缺陷太阳能板热斑脏污检测数据集VOC+YOLO格式2289张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptpbQ==">下载</a></td></tr>
+<tr><td>电力场景电网施工安全防护检测数据集VOC+YOLO格式911张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptpaw==">下载</a></td></tr>
+<tr><td>滑雪摔倒检测数据集VOC+YOLO格式3206张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpltZA==">下载</a></td></tr>
+<tr><td>光伏板太阳能板尘土灰尘脏污检测数据集VOC+YOLO格式1006张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlphwag==">下载</a></td></tr>
+<tr><td>电动车检测数据集VOC+YOLO格式3015张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlphvZQ==">下载</a></td></tr>
+<tr><td>摩托车与自行车检测数据集VOC+YOLO格式2416张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlphtaA==">下载</a></td></tr>
+<tr><td>台球检测数据集VOC+YOLO格式1488张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlphsZg==">下载</a></td></tr>
+<tr><td>智慧交通城市道路标线检测数据集VOC+YOLO格式5567张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpdyaA==">下载</a></td></tr>
+<tr><td>消防监控在岗人员保安门卫检测数据集VOC+YOLO格式10153张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpdyZg==">下载</a></td></tr>
+<tr><td>冶炼煤电工厂监控安全防护检测数据集VOC+YOLO格式2968张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpdxbA==">下载</a></td></tr>
+<tr><td>周边车辆刹车制动与环境要素检测数据集VOC+YOLO格式9454张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpdxaw==">下载</a></td></tr>
+<tr><td>车辆监控视角周边车辆刹车检测数据集VOC+YOLO格式7891张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpdsZw==">下载</a></td></tr>
+<tr><td>冶炼工厂人员安全防护检测数据集VOC+YOLO格式5610张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpdpbA==">下载</a></td></tr>
+<tr><td>智慧工地人员安全防护检测数据集VOC+YOLO格式1651张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpZxZw==">下载</a></td></tr>
+<tr><td>蝴蝶种类类型检测数据集VOC+YOLO格式1264张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpZwZQ==">下载</a></td></tr>
+<tr><td>德甲联赛足球比赛中裁判球员足球检测数据集VOC+YOLO格式23957张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpZvaQ==">下载</a></td></tr>
+<tr><td>电力场景高空作业人员高空施工人员检测数据集VOC+YOLO格式1742张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpZrbQ==">下载</a></td></tr>
+<tr><td>通信塔信号塔缺陷检测数据集VOC+YOLO格式746张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZ9vbQ==">下载</a></td></tr>
+<tr><td>无人机视角禁止游泳检测数据集VOC+YOLO格式20604张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWbmp5saQ==">下载</a></td></tr>
+<tr><td>危险运输车辆油罐车及其识别号空载满载标识检测数据集VOC+YOLO格式1040张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZ1ybA==">下载</a></td></tr>
+<tr><td>金属焊接焊缝缺陷检测数据集VOC+YOLO格式2087张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZ1yZQ==">下载</a></td></tr>
+<tr><td>智慧养殖猪圈猪识别分割数据集labelme格式2106张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZ1qZw==">下载</a></td></tr>
+<tr><td>无人机视角楼房外立面瓷砖缺陷识别分割数据集labelme格式407张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZxqaQ==">下载</a></td></tr>
+<tr><td>智慧铁路铁轨轨道裂缝与接头异常检测数据集VOC+YOLO格式2470张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZtybQ==">下载</a></td></tr>
+<tr><td>无人机视角坦克和人员检测数据集VOC+YOLO格式2178张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZtybA==">下载</a></td></tr>
+<tr><td>电力场景电力设备电线杆损坏检测数据集VOC+YOLO格式656张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZtuaA==">下载</a></td></tr>
+<tr><td>环保清洁机器人巡检室内垃圾检测数据集VOC+YOLO格式4792张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZtpaw==">下载</a></td></tr>
+<tr><td>室内机器人巡检室内物体人员墙面地板检测数据集VOC+YOLO格式1000张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZpxaA==">下载</a></td></tr>
+<tr><td>风电叶片缺陷多类型风损缺陷识别分割数据集labelme格式598张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZpvaA==">下载</a></td></tr>
 <tr><td>玉米粒质检玉米种子好坏检测数据集VOC+YOLO格式1341张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZlwag==">下载</a></td></tr>
 <tr><td>智慧铁路鱼眼全景监控视角工人与车厢连接件检测数据集VOC+YOLO格式15417张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZlvbQ==">下载</a></td></tr>
 <tr><td>智慧铁路工人检测数据集VOC+YOLO格式2515张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlZluZw==">下载</a></td></tr>
