@@ -3,6 +3,20 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通公路隧道内墙壁渗水漏水检测数据集VOC+YOLO格式489张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZyaA==">下载</a></td></tr>
+<tr><td>无人机视角航拍乡村地物目标与各种类型车辆检测数据集VOC+YOLO格式394张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZyZA==">下载</a></td></tr>
+<tr><td>城市道路路边护栏设施损伤损坏变形丢失缺陷检测数据集VOC+YOLO格式2550张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5dpZw==">下载</a></td></tr>
+<tr><td>城市街道乱堆放垃圾检测数据集VOC+YOLO格式357张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZxZQ==">下载</a></td></tr>
+<tr><td>城市街道共享单车检测数据集VOC+YOLO格式474张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5Zwaw==">下载</a></td></tr>
+<tr><td>沿街外立面围护设施不完好检测数据集VOC+YOLO格式148张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5Zwag==">下载</a></td></tr>
+<tr><td>茄子苗与杂草检测数据集VOC+YOLO格式822张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZpbQ==">下载</a></td></tr>
+<tr><td>无人机视角低空拍摄农田玉米苗与杂草检测数据集VOC+YOLO格式4752张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZpaQ==">下载</a></td></tr>
+<tr><td>监控视角高速路面抛洒物检测数据集VOC+YOLO格式1000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlp9saA==">下载</a></td></tr>
+<tr><td>木材表面缺陷木板裂缝节疤虫眼检测数据集VOC+YOLO格式612张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpxpag==">下载</a></td></tr>
+<tr><td>智慧工地PPE检测人员穿戴规范检测数据集VOC+YOLO格式1000张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlpxpZQ==">下载</a></td></tr>
+<tr><td>高速公路道路安全基础设施防撞板和防眩板损坏缺陷检测数据集VOC+YOLO格式343张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptyaw==">下载</a></td></tr>
+<tr><td>地面障碍物检测数据集VOC+YOLO格式625张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptwag==">下载</a></td></tr>
+<tr><td>蘑菇生长状态生长周期检测数据集VOC+YOLO格式4304张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlp9rbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍应急车道与普通车道识别分割数据集labelme格式1485张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptrbA==">下载</a></td></tr>
 <tr><td>室内安全防护服与人员姿态人体行为检测数据集VOC+YOLO格式4567张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptrZg==">下载</a></td></tr>
 <tr><td>监控视角下电梯门开关状态检测数据集VOC+YOLO格式430张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlptqZA==">下载</a></td></tr>
@@ -2665,7 +2679,7 @@
 <tr><td>[数据集][目标检测]电力场景红外图像输电线路绝缘子检测数据集VOC+YOLO格式1846张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141471585">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]考场行为作弊检测数据集VOC+YOLO格式4413张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141467346">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]光伏发电板红外图像鸟粪检测数据集VOC+YOLO格式173张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141465073">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]电力场景输电线杆塔塔架金属锈蚀腐蚀生锈检测数据集VOC+YOLO格式1344张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141464627">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]电力场景输电线杆塔塔架金属锈蚀腐蚀生锈检测数据集VOC+YOLO格式1344张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWlp9waQ==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景输电线异物检测数据集VOC+YOLO格式2060张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141461220">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]流水线物件检测数据集VOC+YOLO格式9255张26类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141390199">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]建筑工地楼层空洞检测数据集VOC+YOLO格式2588张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141389741">详情</a></td><td><a href="info.md">下载</a></td></tr>
@@ -2830,7 +2844,7 @@
 <tr><td>刀棒识别检测数据集VOC+YOLO格式401张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139052049">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]手枪机枪刀检测数据集VOC+YOLO格式5990张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139048426">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]11类食物分类数据集13296张11类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139034578">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]超市秤盘水果检测数据集VOC+YOLO格式4592张14类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139028499">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]超市秤盘水果检测数据集VOC+YOLO格式4592张14类别</td>无<td><a href="https://mbd.pub/o/bread/YZaWl5ZraQ==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]鱼头鱼尾检测数据集VOC+YOLO格式200张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139025876">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]抽烟喝酒检测数据集VOC+YOLO格式1026张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139025406">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]番茄西红柿叶子病害检测数据集VOC+YOLO格式725张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139025142">详情</a></td><td><a href="info.md">下载</a></td></tr>
@@ -3011,7 +3025,7 @@
 <tr><td>打架行为检测数据集VOC+YOLO格式7327张2类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141796197">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>昆虫检测数据集VOC+YOLO格式9348张102类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141784439">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>脑瘤检测数据集VOC+YOLO格式9973张4类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141599637">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][图像分类]蔬菜分类数据集2.1万张15类豆子苦瓜葫芦茄子西兰花卷心菜辣椒胡萝卜花椰菜黄瓜木瓜土豆南瓜萝卜和西红柿</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141566731">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][图像分类]蔬菜分类数据集2.1万张15类豆子苦瓜葫芦茄子西兰花卷心菜辣椒胡萝卜花椰菜黄瓜木瓜土豆南瓜萝卜和西红柿</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141566731">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-YZaWlZtvbA==">下载</a></td></tr>
 <tr><td>电力场景光伏板航拍鸟粪缺陷检测数据集VOC+YOLO格式367张1类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141557357">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>骨折检测数据集VOC+YOLO格式2060张7类</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141530896">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>电力场景输电线路红外过热检测数据集VOC+YOLO格式2253张1类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141474100">详情</a></td><td><a href="info.md">下载</a></td></tr>
