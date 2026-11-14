@@ -2844,7 +2844,7 @@
 <tr><td>刀棒识别检测数据集VOC+YOLO格式401张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139052049">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]手枪机枪刀检测数据集VOC+YOLO格式5990张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139048426">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]11类食物分类数据集13296张11类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139034578">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]超市秤盘水果检测数据集VOC+YOLO格式4592张14类别</td>无<td><a href="https://mbd.pub/o/bread/YZaWl5ZraQ==">下载</a></td></tr>
+<tr><td>[数据集][目标检测]超市秤盘水果检测数据集VOC+YOLO格式4592张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZraQ==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]鱼头鱼尾检测数据集VOC+YOLO格式200张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139025876">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]抽烟喝酒检测数据集VOC+YOLO格式1026张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139025406">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]番茄西红柿叶子病害检测数据集VOC+YOLO格式725张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139025142">详情</a></td><td><a href="info.md">下载</a></td></tr>
