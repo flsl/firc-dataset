@@ -3,6 +3,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>茶叶芽和茶叶叶子检测数据集VOC+YOLO格式2000张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqZw==">下载</a></td></tr>
+<tr><td>建筑物损坏情况检测数据集VOC+YOLO格式764张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqZg==">下载</a></td></tr>
+<tr><td>第一视角盲人视觉障碍物检测数据集识别分割数据集labelme格式4187张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5trZA==">下载</a></td></tr>
+<tr><td>智慧工地监控视角下塔吊安全规范检测数据集VOC+YOLO格式2197张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqag==">下载</a></td></tr>
+<tr><td>建筑物立面外墙面缺陷裂缝受潮剥落起皮涂鸦识别分割数据集labelme格式350张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ptaw==">下载</a></td></tr>
+<tr><td>智慧交通城市道路修补补丁识别分割数据集labelme格式2140张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5psZA==">下载</a></td></tr>
+<tr><td>无人机视角航拍树种树木白杨松树杉树检测数据集VOC+YOLO格式2993张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5lraQ==">下载</a></td></tr>
+<tr><td>城市道路路边护栏设施损伤损坏变形丢失缺陷检测数据集VOC+YOLO格式2550张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5dpZw==">下载</a></td></tr>
+<tr><td>智慧交通公路隧道巡检隧道监控设备状态机电设施异常状态检测数据集VOC+YOLO格式37481张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5hvaw==">下载</a></td></tr>
+<tr><td>无人机视角航拍大棚塑料薄膜破损缺陷检测数据集VOC+YOLO格式127张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5huZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍违规建筑搭建检测数据集VOC+YOLO格式453张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5htbQ==">下载</a></td></tr>
+<tr><td>瓷砖表面缺陷检测数据集VOC+YOLO格式888张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5dvbQ==">下载</a></td></tr>
 <tr><td>智慧交通公路隧道内墙壁渗水漏水检测数据集VOC+YOLO格式489张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZyaA==">下载</a></td></tr>
 <tr><td>无人机视角航拍乡村地物目标与各种类型车辆检测数据集VOC+YOLO格式394张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5ZyZA==">下载</a></td></tr>
 <tr><td>城市道路路边护栏设施损伤损坏变形丢失缺陷检测数据集VOC+YOLO格式2550张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5dpZw==">下载</a></td></tr>
