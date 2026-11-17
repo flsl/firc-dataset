@@ -3,6 +3,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>145种树种树木类型类别识别检测数据集VOC+YOLO格式4253张146类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xuZQ==">下载</a></td></tr>
+<tr><td>无人机森林烟火火灾识别分割数据集labelme格式426张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tuZg==">下载</a></td></tr>
+<tr><td>智慧工地监控视角下塔吊安全规范检测数据集VOC+YOLO格式2197张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqaQ==">下载</a></td></tr>
+<tr><td>智慧养殖病猪识别猪疾病检测数据集VOC+YOLO格式9283张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xvZw==">下载</a></td></tr>
+<tr><td>兰花病害检测数据集VOC+YOLO格式797张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xuag==">下载</a></td></tr>
+<tr><td>智慧工地物料堆放对叠规整检测数据集VOC+YOLO格式452张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xraQ==">下载</a></td></tr>
+<tr><td>智慧工地凸出危险物潜在绊倒安全检测数据集VOC+YOLO格式590张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xrZg==">下载</a></td></tr>
+<tr><td>建筑垃圾检测数据集VOC+YOLO格式4219张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xpaA==">下载</a></td></tr>
 <tr><td>茶叶芽和茶叶叶子检测数据集VOC+YOLO格式2000张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqZw==">下载</a></td></tr>
 <tr><td>建筑物损坏情况检测数据集VOC+YOLO格式764张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqZg==">下载</a></td></tr>
 <tr><td>第一视角盲人视觉障碍物检测数据集识别分割数据集labelme格式4187张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5trZA==">下载</a></td></tr>
