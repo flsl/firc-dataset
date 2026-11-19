@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59tZg==">下载</a></td></tr>
+<tr><td>黄瓜成熟度检测数据集VOC+YOLO格式2024张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59raw==">下载</a></td></tr>
+<tr><td>无人机视角航拍大棚与房屋损坏缺陷受灾房屋大棚状态检测数据集VOC+YOLO格式463张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59rZQ==">下载</a></td></tr>
+<tr><td>柑橘叶片叶子病害图像分类数据集5813张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl55yag==">下载</a></td></tr>
+<tr><td>柑橘叶子病害图像分类数据集4247张14类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl55xbA==">下载</a></td></tr>
+<tr><td>猫狗关键点检测姿态估计数据集COCO+YOLO格式200张2类别17关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl55raQ==">下载</a></td></tr>
+<tr><td>配电设备及电力安全规范检测数据集VOC+YOLO格式9410张78类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl51rZw==">下载</a></td></tr>
+<tr><td>马铃薯土豆叶子病害检测数据集VOC+YOLO格式1693张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl51rZA==">下载</a></td></tr>
+<tr><td>水体污染与水面异常检测数据集VOC+YOLO格式1001张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl51qbQ==">下载</a></td></tr>
 <tr><td>145种树种树木类型类别识别检测数据集VOC+YOLO格式4253张146类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5xuZQ==">下载</a></td></tr>
 <tr><td>无人机森林烟火火灾识别分割数据集labelme格式426张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tuZg==">下载</a></td></tr>
 <tr><td>智慧工地监控视角下塔吊安全规范检测数据集VOC+YOLO格式2197张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl5tqaQ==">下载</a></td></tr>
