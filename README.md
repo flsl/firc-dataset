@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角建筑外立面多模态病害建筑立面缺陷分割的像素级对齐RGB-IR图像红外可见光严格对齐数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJtpaQ==">下载</a></td></tr>
+<tr><td>车辆行人斑马线分类数据集42511张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJpsbA==">下载</a></td></tr>
+<tr><td>智慧果园草莓病害检测数据集VOC+YOLO格式2268张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJpsZQ==">下载</a></td></tr>
+<tr><td>移动应用界面UI元素安卓应用界面元素检测数据集VOC+YOLO格式2119张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJluag==">下载</a></td></tr>
+<tr><td>电子焊锡操作规范检测数据集VOC+YOLO格式7967张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJhqbA==">下载</a></td></tr>
+<tr><td>移动应用界面UI元素安卓应用界面元素检测数据集VOC+YOLO格式8299张48类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJlvZg==">下载</a></td></tr>
+<tr><td>无人机视角可见光红外配对火焰烟雾检测数据集YOLO格式1280对图像2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJluZw==">下载</a></td></tr>
 <tr><td>无人机视角航拍工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59tZg==">下载</a></td></tr>
 <tr><td>黄瓜成熟度检测数据集VOC+YOLO格式2024张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59raw==">下载</a></td></tr>
 <tr><td>无人机视角航拍大棚与房屋损坏缺陷受灾房屋大棚状态检测数据集VOC+YOLO格式463张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWl59rZQ==">下载</a></td></tr>
