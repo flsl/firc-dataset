@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景输电线缆损坏缺陷检测数据集VOC+YOLO格式430张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vaQ==">下载</a></td></tr>
+<tr><td>无人机视角低空拍摄甜菜苗与杂草检测数据集VOC+YOLO格式4306张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9ubA==">下载</a></td></tr>
+<tr><td>无人机视角航拍大型露天矿场和工业采石场的汽车和工程车检测数据集VOC+YOLO格式244张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ1vaA==">下载</a></td></tr>
+<tr><td>大规模动物关键点检测姿态估计数据集COCO+YOLO格式10013张50类别17关键点</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9xaA==">下载</a></td></tr>
+<tr><td>智慧工地人员手推车物料堆积脚手架检测数据集VOC+YOLO格式1934张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vZQ==">下载</a></td></tr>
+<tr><td>电力场景输电线路线缆损坏与异物检测数据集VOC+YOLO格式3968张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vZA==">下载</a></td></tr>
+<tr><td>玉米倒伏图像分类数据集99张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJxwZg==">下载</a></td></tr>
+<tr><td>无人机视角航拍农用玉米地雄穗玉米穗检测数据集VOC+YOLO格式1979张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJxwZA==">下载</a></td></tr>
+<tr><td>印章分割数据集labelme格式1486张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJxqZQ==">下载</a></td></tr>
+<tr><td>电力车间工器具检测数据集VOC+YOLO格式3057张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJtsag==">下载</a></td></tr>
 <tr><td>无人机视角建筑外立面多模态病害建筑立面缺陷分割的像素级对齐RGB-IR图像红外可见光严格对齐数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJtpaQ==">下载</a></td></tr>
 <tr><td>车辆行人斑马线分类数据集42511张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJpsbA==">下载</a></td></tr>
 <tr><td>智慧果园草莓病害检测数据集VOC+YOLO格式2268张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJpsZQ==">下载</a></td></tr>
