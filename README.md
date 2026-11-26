@@ -3,6 +3,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>步行导航实例分割数据集labelme格式9544张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZprbA==">下载</a></td></tr>
+<tr><td>梨子缺陷例质检实例分割数据集labelme格式1178张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZpraQ==">下载</a></td></tr>
+<tr><td>珍珠粟植株病害识别分割数据集labelme格式5033张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZprZA==">下载</a></td></tr>
+<tr><td>建筑工地地面钢筋护栏识别分割数据集labelme格式1280张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZpqbQ==">下载</a></td></tr>
+<tr><td>甘蓝卷心菜包菜与杂草识别分割数据集labelme格式2006张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZpqbA==">下载</a></td></tr>
+<tr><td>集装箱识别分割数据集labelme格式3510张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZprZw==">下载</a></td></tr>
+<tr><td>岗位工服检测可识别保安美团饿了吗工服检测数据集VOC+YOLO格式1130张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZlqZg==">下载</a></td></tr>
+<tr><td>市政环卫巡检可识别垃圾坑洞积水排水堵塞检测数据集VOC+YOLO格式5014张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZhuZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍街道街摊贩占道经营检测数据集VOC+YOLO格式1868张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZhtbA==">下载</a></td></tr>
+<tr><td>无人机视角人员跌倒户外救援检测人员与摔倒检测数据集VOC+YOLO格式1960张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZhpZQ==">下载</a></td></tr>
+<tr><td>珊瑚礁生态监测底质与生物覆盖分类识别分割数据集labelme格式1498张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmZdwaA==">下载</a></td></tr>
 <tr><td>电力场景输电线缆损坏缺陷检测数据集VOC+YOLO格式430张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9vaQ==">下载</a></td></tr>
 <tr><td>无人机视角低空拍摄甜菜苗与杂草检测数据集VOC+YOLO格式4306张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ9ubA==">下载</a></td></tr>
 <tr><td>无人机视角航拍大型露天矿场和工业采石场的汽车和工程车检测数据集VOC+YOLO格式244张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZaWmJ1vaA==">下载</a></td></tr>
